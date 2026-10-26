@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.claude/
+output/audit_trail.jsonl
+price_pages/

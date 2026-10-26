@@ -1,0 +1,36 @@
+{
+  "name": "Yale Weekend Grocery Shuttle",
+  "checked": "2026-10-25",
+  "sources": [
+    "https://your.yale.edu/media/4430/download?inline",
+    "https://your.yale.edu/campus-essentials/getting-around-campus/using-the-shuttle/weekend-routes",
+    "https://yale.downtownerapp.com/routes_stops.php"
+  ],
+  "basis": "Yale's 'Weekend Grocery Shuttle Service' sheet: Saturdays and Sundays, about 7:00 AM to 5:00 PM, one-way loop, no service on University holidays or recess. Stop locations from Yale's shuttle tracker. Yale does not publish the loop time, so it is assumed to be 50 minutes; ride times are that loop split by distance. Going out, you watch the tracker and wait about 5 minutes; coming back, you wait for the same shuttle to come around again.",
+  "days": [5, 6],
+  "start_hour": 7,
+  "end_hour": 17,
+  "loop_minutes": 50,
+  "tracker_wait_minutes": 5,
+  "max_walk_to_stop_miles": 1.0,
+  "max_walk_from_store_stop_miles": 0.3,
+  "loop": [
+    {"name": "TYCO - Elm St (Elm / York)", "lat": 41.31086, "lon": -72.93054, "board": true},
+    {"name": "Elm & College", "lat": 41.309579, "lon": -72.927476, "board": true},
+    {"name": "Whitney & Humphrey", "lat": 41.317907, "lon": -72.920416, "board": true},
+    {"name": "Whitney & Cottage", "lat": 41.321181, "lon": -72.918038, "board": true},
+    {"name": "Aldi/Walmart Hamden", "lat": 41.37512, "lon": -72.91709, "store": true},
+    {"name": "ShopRite / Trader Joe's Hamden", "lat": 41.36879, "lon": -72.92047, "store": true}
+  ],
+  "boarding_stops": [
+    {"name": "TYCO - Elm St (Elm / York)", "lat": 41.31086, "lon": -72.93054},
+    {"name": "Elm & College", "lat": 41.309579, "lon": -72.927476},
+    {"name": "Whitney & Humphrey", "lat": 41.317907, "lon": -72.920416},
+    {"name": "Whitney & Cottage", "lat": 41.321181, "lon": -72.918038}
+  ],
+  "store_stops": [
+    {"name": "Aldi/Walmart Hamden", "lat": 41.37512, "lon": -72.91709},
+    {"name": "ShopRite / Trader Joe's Hamden", "lat": 41.36879, "lon": -72.92047}
+  ],
+  "note": "No service on University holidays or recess periods (check Yale's calendar, e.g. Thanksgiving recess)."
+}

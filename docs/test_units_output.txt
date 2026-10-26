@@ -1,0 +1,18 @@
+﻿PASS  2 dozen eggs            <- Goldhen Large Grade A Eggs - 1 Dozen   [each (12 ct)]  buy 2
+PASS  2 dozen eggs            <- Kirkland Signature Eggs, Large, 24-cou [each (24-count)]  buy 1
+PASS  60 ct eggs            <- Kirkland Signature Eggs, Large, 5 doze [each (5 dozen-count)]  buy 1
+PASS  1 gal milk            <- Stop & Shop Vitamin D Whole Milk       [each (1/2 gallon), $0.05 /oz]  buy 2
+PASS  1 gal milk            <- Organic Milk A2/A2                     [each (64 Fl Oz)]  buy 2
+PASS  3 lb chicken breast  <- Boneless Skinless Chicken Breasts Fami [per lb (About 5.0 lb / package)]  buy 3
+PASS  3 lb chicken breast  <- Fresh Family Pack Chicken Breasts      [PRICE DROPS Per Lb.]  buy 3
+PASS  8 oz cheddar cheese  <- Stop & Shop Extra Sharp Cheddar        [each (8 oz pkg), $4.38 /lb]  buy 1
+PASS  5 lb rice            <- Earthly Grains Long Grain White Rice   [each (48 oz)]  buy 2
+PASS  5 lb rice            <- Eastside Rice, Long Grain, 25 lbs      [each (25 lb)]  buy 1
+PASS  1 lb pasta           <- Barilla Penne Pasta, 1 lb, 8-count     [each (8 x 1 lb)]  buy 1
+PASS  6 ct bananas         <- Bananas, per lb                        [per lb (About 0.33 lb each)]  buy 1.98
+PASS  6 ct bananas         <- Bananas                                [each]  buy 6
+PASS  2 lb bananas         <- Bananas, 3 lbs                         [each (3 lbs)]  buy 1
+PASS  1 pack bread           <- Wonder Classic White Bread, 20 oz, 2 c [each (20 oz, 2 count (2 ct))]  buy 1
+PASS  18 eggs = 1.5 dozen (for the U.S.-average estimate)
+
+16/16 passed

@@ -1,0 +1,270 @@
+{
+ "source": "U.S. Bureau of Labor Statistics, CPI Average Price Data, U.S. city average (api.bls.gov), fetched 2026-10-25",
+ "note": "National averages, not prices at any one store. Used only when no store-specific price exists, and always labeled 'estimated'.",
+ "items": [
+  {
+   "id": "bls-708111",
+   "name": "eggs",
+   "unit": "dozen",
+   "price": 2.27,
+   "period": "September 2026",
+   "series": "APU0000708111",
+   "bls_name": "Eggs, grade A, large, per doz",
+   "tags": [
+    "egg",
+    "eggs"
+   ]
+  },
+  {
+   "id": "bls-709112",
+   "name": "whole milk",
+   "unit": "gallon",
+   "price": 4.11,
+   "period": "September 2026",
+   "series": "APU0000709112",
+   "bls_name": "Milk, fresh, whole, fortified, per gal",
+   "tags": [
+    "milk"
+   ]
+  },
+  {
+   "id": "bls-FF1101",
+   "name": "boneless chicken breast",
+   "unit": "lb",
+   "price": 4.2,
+   "period": "September 2026",
+   "series": "APU0000FF1101",
+   "bls_name": "Chicken breast, boneless, per lb",
+   "tags": [
+    "chicken",
+    "breast"
+   ]
+  },
+  {
+   "id": "bls-706111",
+   "name": "whole chicken",
+   "unit": "lb",
+   "price": 2.06,
+   "period": "September 2026",
+   "series": "APU0000706111",
+   "bls_name": "Chicken, fresh, whole, per lb",
+   "tags": [
+    "chicken",
+    "whole"
+   ]
+  },
+  {
+   "id": "bls-702111",
+   "name": "white bread",
+   "unit": "lb",
+   "price": 1.83,
+   "period": "September 2026",
+   "series": "APU0000702111",
+   "bls_name": "Bread, white, pan, per lb",
+   "tags": [
+    "bread"
+   ]
+  },
+  {
+   "id": "bls-711211",
+   "name": "bananas",
+   "unit": "lb",
+   "price": 0.66,
+   "period": "September 2026",
+   "series": "APU0000711211",
+   "bls_name": "Bananas, per lb",
+   "tags": [
+    "banana",
+    "bananas"
+   ]
+  },
+  {
+   "id": "bls-701312",
+   "name": "white rice",
+   "unit": "lb",
+   "price": 1.12,
+   "period": "September 2026",
+   "series": "APU0000701312",
+   "bls_name": "Rice, white, long grain, uncooked, per lb",
+   "tags": [
+    "rice"
+   ]
+  },
+  {
+   "id": "bls-703112",
+   "name": "ground beef",
+   "unit": "lb",
+   "price": 6.79,
+   "period": "September 2026",
+   "series": "APU0000703112",
+   "bls_name": "Ground beef, 100% beef, per lb",
+   "tags": [
+    "beef",
+    "ground"
+   ]
+  },
+  {
+   "id": "bls-710212",
+   "name": "cheddar cheese",
+   "unit": "lb",
+   "price": 6.13,
+   "period": "September 2026",
+   "series": "APU0000710212",
+   "bls_name": "Cheddar cheese, natural, per lb",
+   "tags": [
+    "cheese",
+    "cheddar"
+   ]
+  },
+  {
+   "id": "bls-712112",
+   "name": "white potatoes",
+   "unit": "lb",
+   "price": 0.99,
+   "period": "September 2026",
+   "series": "APU0000712112",
+   "bls_name": "Potatoes, white, per lb",
+   "tags": [
+    "potato",
+    "potatoes"
+   ]
+  },
+  {
+   "id": "bls-717311",
+   "name": "ground coffee",
+   "unit": "lb",
+   "price": 9.33,
+   "period": "September 2026",
+   "series": "APU0000717311",
+   "bls_name": "Coffee, 100%, ground roast, per lb",
+   "tags": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "bls-FS1101",
+   "name": "butter",
+   "unit": "lb",
+   "price": 3.96,
+   "period": "September 2026",
+   "series": "APU0000FS1101",
+   "bls_name": "Butter, salted, grade AA, stick, per lb",
+   "tags": [
+    "butter"
+   ]
+  },
+  {
+   "id": "bls-701111",
+   "name": "all-purpose flour",
+   "unit": "lb",
+   "price": 0.55,
+   "period": "September 2026",
+   "series": "APU0000701111",
+   "bls_name": "Flour, white, all purpose, per lb",
+   "tags": [
+    "flour"
+   ]
+  },
+  {
+   "id": "bls-704111",
+   "name": "sliced bacon",
+   "unit": "lb",
+   "price": 6.76,
+   "period": "September 2026",
+   "series": "APU0000704111",
+   "bls_name": "Bacon, sliced, per lb",
+   "tags": [
+    "bacon"
+   ]
+  },
+  {
+   "id": "bls-715211",
+   "name": "white sugar",
+   "unit": "lb",
+   "price": 1.02,
+   "period": "September 2026",
+   "series": "APU0000715211",
+   "bls_name": "Sugar, white, per lb",
+   "tags": [
+    "sugar"
+   ]
+  },
+  {
+   "id": "bls-712311",
+   "name": "tomatoes",
+   "unit": "lb",
+   "price": 1.99,
+   "period": "September 2026",
+   "series": "APU0000712311",
+   "bls_name": "Tomatoes, field grown, per lb",
+   "tags": [
+    "tomato",
+    "tomatoes"
+   ]
+  },
+  {
+   "id": "bls-711311",
+   "name": "navel oranges",
+   "unit": "lb",
+   "price": 1.72,
+   "period": "September 2026",
+   "series": "APU0000711311",
+   "bls_name": "Oranges, Navel, per lb",
+   "tags": [
+    "orange",
+    "oranges"
+   ]
+  },
+  {
+   "id": "bls-710411",
+   "name": "ice cream",
+   "unit": "half gallon",
+   "price": 5.93,
+   "period": "September 2026",
+   "series": "APU0000710411",
+   "bls_name": "Ice cream, prepackaged, per 1/2 gal",
+   "tags": [
+    "ice cream"
+   ]
+  },
+  {
+   "id": "bls-712211",
+   "name": "iceberg lettuce",
+   "unit": "lb",
+   "price": 1.64,
+   "period": "September 2026",
+   "series": "APU0000712211",
+   "bls_name": "Lettuce, iceberg, per lb",
+   "tags": [
+    "lettuce"
+   ]
+  },
+  {
+   "id": "bls-702421",
+   "name": "chocolate chip cookies",
+   "unit": "lb",
+   "price": 5.15,
+   "period": "September 2026",
+   "series": "APU0000702421",
+   "bls_name": "Cookies, chocolate chip, per lb",
+   "tags": [
+    "cookies",
+    "cookie"
+   ]
+  },
+  {
+   "id": "bls-FN1101",
+   "name": "soft drink",
+   "unit": "2 liter bottle",
+   "price": 2.27,
+   "period": "September 2026",
+   "series": "APU0000FN1101",
+   "bls_name": "All soft drinks, 2 liter",
+   "tags": [
+    "soda",
+    "coke",
+    "soft drink"
+   ]
+  }
+ ]
+}

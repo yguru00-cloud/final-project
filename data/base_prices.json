@@ -1,0 +1,5766 @@
+{
+ "source": "Prices read by hand from store-website screenshots on 2026-10-25 and 2026-10-26 (screenshots kept outside the repo).",
+ "items": [
+  {
+   "id": "web-aldi-bacon-1",
+   "store_brand": "ALDI",
+   "name": "Appleton Farms Thick Cut Bacon",
+   "price": 3.95,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bacon.png",
+   "notes": "Many in stock; Cooler Doors",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bacon-2",
+   "store_brand": "ALDI",
+   "name": "Appleton Farms Premium Sliced Bacon",
+   "price": 4.15,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bacon.png",
+   "notes": "Store choice; Many in stock; Cooler Doors",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bacon-3",
+   "store_brand": "ALDI",
+   "name": "Appleton Farms Lower Sodium Bacon",
+   "price": 4.15,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bacon.png",
+   "notes": "Many in stock; Cooler Doors",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bananas-4",
+   "store_brand": "ALDI",
+   "name": "Bananas, per lb",
+   "price": 0.49,
+   "unit_text": "per lb (About 0.33 lb each)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bananas.png",
+   "notes": "Shown as $0.16 each (est.); Best seller; Many in stock Screen showed est. package $0.49 for About 0.33 lb each.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bananas-5",
+   "store_brand": "ALDI",
+   "name": "Organic Organic Bananas",
+   "price": 0.73,
+   "unit_text": "per lb (About 0.33 lb each)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bananas.png",
+   "notes": "Shown as $0.24 each (est.); Organic; Likely out of stock Screen showed est. package $0.73 for About 0.33 lb each.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bread-6",
+   "store_brand": "ALDI",
+   "name": "L'oven Fresh Classic White Bread",
+   "price": 1.45,
+   "unit_text": "each (20 oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bread.png",
+   "notes": "Store choice; Trans fat-free; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bread-7",
+   "store_brand": "ALDI",
+   "name": "L'oven Fresh Honey Wheat Bread, 20 oz ver 1",
+   "price": 1.85,
+   "unit_text": "each (20 oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bread.png",
+   "notes": "Best seller; Trans fat-free; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-bread-8",
+   "store_brand": "ALDI",
+   "name": "L'oven Fresh 100% Whole Wheat Bread, 20 oz",
+   "price": 1.95,
+   "unit_text": "each (20 oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_bread.png",
+   "notes": "Whole grain; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-butter-9",
+   "store_brand": "ALDI",
+   "name": "Countryside Creamery Sweet Cream Butter - 4 Sticks",
+   "price": 2.89,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_butter.png",
+   "notes": "Store choice; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-butter-10",
+   "store_brand": "ALDI",
+   "name": "Countryside Creamery Sweet Cream Unsalted Butter - 4 Sticks",
+   "price": 2.89,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_butter.png",
+   "notes": "Best seller; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-cheddar_cheese-11",
+   "store_brand": "ALDI",
+   "name": "Happy Farms Sharp Cheddar Cheese Block",
+   "price": 1.75,
+   "unit_text": "each (8 oz)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_cheddar_cheese.png",
+   "notes": "Store choice; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-cheddar_cheese-12",
+   "store_brand": "ALDI",
+   "name": "Happy Farms Mild Cheddar Cheese Block",
+   "price": 1.75,
+   "unit_text": "each (8 oz)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_cheddar_cheese.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-cheddar_cheese-13",
+   "store_brand": "ALDI",
+   "name": "Happy Farms New York Sharp Cheddar Cheese Block",
+   "price": 1.75,
+   "unit_text": "each (8 oz)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_cheddar_cheese.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-chicken_breast-14",
+   "store_brand": "ALDI",
+   "name": "Boneless Skinless Chicken Breasts Family Pack, per lb",
+   "price": 1.99,
+   "unit_text": "per lb (About 5.0 lb / package)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_chicken_breast.png",
+   "notes": "Shown as $9.95 /pkg (est.), was $10.95, 9% off; Store choice; Many in stock Screen showed est. package $1.99 for About 5.0 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-chicken_breast-16",
+   "store_brand": "ALDI",
+   "name": "Kirkwood Chicken Breasts, per lb",
+   "price": 3.29,
+   "unit_text": "per lb (About 1.75 lb / package)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_chicken_breast.png",
+   "notes": "Shown as $5.76 /pkg (est.); Best seller; Many in stock Screen showed est. package $3.29 for About 1.75 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-coffee-17",
+   "store_brand": "ALDI",
+   "name": "Cafe El Morro Espresso Ground Coffee",
+   "price": 3.65,
+   "unit_text": "each (8.83 oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_coffee.png",
+   "notes": "Sale price; was $3.79; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-coffee-18",
+   "store_brand": "ALDI",
+   "name": "Barissimo Midnight Ground Coffee",
+   "price": 6.29,
+   "unit_text": "each (12 oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_coffee.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-coffee-19",
+   "store_brand": "ALDI",
+   "name": "Beaumont Classic Roast Medium Ground Coffee",
+   "price": 12.29,
+   "unit_text": "each (30.5 oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_coffee.png",
+   "notes": "Store choice; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-eggs-20",
+   "store_brand": "ALDI",
+   "name": "Goldhen Large Grade A Eggs - 1 Dozen",
+   "price": 1.66,
+   "unit_text": "each (12 ct)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_eggs.png",
+   "notes": "Best seller; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-eggs-21",
+   "store_brand": "ALDI",
+   "name": "Goldhen Cage Free Large Brown Grade A Eggs - 12 Count",
+   "price": 2.59,
+   "unit_text": "each (12 ct)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_eggs.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-eggs-22",
+   "store_brand": "ALDI",
+   "name": "Goldhen Pasture Raised Large Grade A Brown Eggs - 12 Count",
+   "price": 3.55,
+   "unit_text": "each (24 oz)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_eggs.png",
+   "notes": "Best seller; shown in separate list at top; no stock status shown",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-ground_beef-23",
+   "store_brand": "ALDI",
+   "name": "USDA 73% Lean 27% Fat Ground Beef, per lb",
+   "price": 4.29,
+   "unit_text": "per lb (About 5.0 lb / package)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_ground_beef.png",
+   "notes": "Shown as $21.45 /pkg (est.), was $25.95, 17% off Screen showed est. package $4.29 for About 5.0 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-ground_beef-24",
+   "store_brand": "ALDI",
+   "name": "80% Lean 20% Fat Ground Beef",
+   "price": 5.29,
+   "unit_text": "per lb (About 2.0 lb / package)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_ground_beef.png",
+   "notes": "Shown as $10.58 /pkg (est.), was $12.38, 15% off; Best seller; Many in stock Screen showed est. package $5.29 for About 2.0 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-ground_beef-25",
+   "store_brand": "ALDI",
+   "name": "85/15 Ground Beef",
+   "price": 5.99,
+   "unit_text": "per lb (About 2.25 lb / package)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_ground_beef.png",
+   "notes": "Shown as $13.48 /pkg (est.), was $14.60, 8% off; Many in stock Screen showed est. package $5.99 for About 2.25 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-milk-26",
+   "store_brand": "ALDI",
+   "name": "Friendly Farms Whole Milk",
+   "price": 3.12,
+   "unit_text": "each (1 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_milk.png",
+   "notes": "Store choice; Whole; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-milk-27",
+   "store_brand": "ALDI",
+   "name": "Friendly Farms 2% Reduced Fat Milk",
+   "price": 3.12,
+   "unit_text": "each (1 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_milk.png",
+   "notes": "Best seller; 2%; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-milk-28",
+   "store_brand": "ALDI",
+   "name": "Friendly Farms Vitamin D Whole Milk",
+   "price": 1.87,
+   "unit_text": "each (0.5 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_milk.png",
+   "notes": "Whole; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-pasta-29",
+   "store_brand": "ALDI",
+   "name": "Reggano Penne Rigate Pasta",
+   "price": 1.09,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_pasta.png",
+   "notes": "Store choice; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-pasta-30",
+   "store_brand": "ALDI",
+   "name": "Reggano Rotini Pasta",
+   "price": 1.09,
+   "unit_text": "each (16 oz)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_pasta.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-pasta-31",
+   "store_brand": "ALDI",
+   "name": "Reggano Spaghetti",
+   "price": 1.89,
+   "unit_text": "each (32 oz)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_pasta.png",
+   "notes": "Best seller; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-potatoes-32",
+   "store_brand": "ALDI",
+   "name": "Baking Potatoes",
+   "price": 3.69,
+   "unit_text": "each (5 lb)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_potatoes.png",
+   "notes": "Best seller",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-potatoes-33",
+   "store_brand": "ALDI",
+   "name": "Yellow Potatoes",
+   "price": 3.79,
+   "unit_text": "each (5 lb)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_potatoes.png",
+   "notes": "Best seller; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-potatoes-34",
+   "store_brand": "ALDI",
+   "name": "Red Potatoes",
+   "price": 3.89,
+   "unit_text": "each (5 lb)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_potatoes.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-rice-35",
+   "store_brand": "ALDI",
+   "name": "Earthly Grains Gluten Free Enriched Long Grain White Rice",
+   "price": 2.65,
+   "unit_text": "each (48 oz)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_rice.png",
+   "notes": "Store choice; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-rice-36",
+   "store_brand": "ALDI",
+   "name": "Earthly Grains Gluten Free Basmati Rice",
+   "price": 3.55,
+   "unit_text": "each (32 oz)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_rice.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-rice-37",
+   "store_brand": "ALDI",
+   "name": "Earthly Grains Enriched Parboiled Long Grain Rice",
+   "price": 3.99,
+   "unit_text": "each (80 oz)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_rice.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-tomatoes-38",
+   "store_brand": "ALDI",
+   "name": "Organic Roma Tomatoes",
+   "price": 2.39,
+   "unit_text": "each (1 lb)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_tomatoes.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-tomatoes-39",
+   "store_brand": "ALDI",
+   "name": "Tomatoes On the Vine",
+   "price": 2.89,
+   "unit_text": "each (24 oz)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_tomatoes.png",
+   "notes": "Best seller; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-tomatoes-40",
+   "store_brand": "ALDI",
+   "name": "Beefsteak Tomatoes",
+   "price": 2.99,
+   "unit_text": "each (1 lb)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_tomatoes.png",
+   "notes": "Best seller",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-yogurt-41",
+   "store_brand": "ALDI",
+   "name": "Friendly Farms Nonfat Plain Greek Yogurt",
+   "price": 2.99,
+   "unit_text": "each (32 oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_yogurt.png",
+   "notes": "Best seller; listing shows '3 flavors'; Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-aldi-yogurt-42",
+   "store_brand": "ALDI",
+   "name": "Friendly Farms Plain Whole Milk Greek Yogurt",
+   "price": 3.49,
+   "unit_text": "each (32 oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "aldi.us",
+   "basis": "ALDI website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-25.",
+   "screenshot": "aldi_yogurt.png",
+   "notes": "Many in stock",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bacon-1",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Naturally Hickory Smoked Bacon, 3 pk./1 lb.",
+   "price": 12.29,
+   "unit_text": "each (3 pk./1 lb.)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bacon.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bacon-2",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Naturally Hickory Smoked Thick Cut Bacon, 2 pk./24 oz.",
+   "price": 12.79,
+   "unit_text": "each (2 pk./24 oz.)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bacon.png",
+   "notes": "Thick cut.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bacon-3",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Oscar Mayer Naturally Hardwood Smoked Bacon, 3 ct.",
+   "price": 16.79,
+   "unit_text": "each (3 ct.)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bacon.png",
+   "notes": "Coupon: \"$2.00 off\" (not subtracted). Package image says 3LB PACK.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bacon-4",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Applegate Natural Hickory Smoked Uncured Sunday Bacon, 2 Pack/12 oz",
+   "price": 18.49,
+   "unit_text": "each (2 Pack/12 oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bacon.png",
+   "notes": "Sponsored listing.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bananas-5",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Bananas, 3 lbs.",
+   "price": 1.49,
+   "unit_text": "each (3 lbs.), $0.50/pound",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bananas.png",
+   "notes": "Price is for the 3 lb bag.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bananas-6",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Chiquita Organic Bananas, 2 lbs.",
+   "price": 1.49,
+   "unit_text": "each (2 lbs.)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bananas.png",
+   "notes": "Organic.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bread-7",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms White Bread, 2 pk./20 oz.",
+   "price": 4.99,
+   "unit_text": "each (2 pk./20 oz.)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bread-8",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Oroweat High Fiber Power Bread, Soft And Delicious Bread, 14g Fiber, 24 oz.",
+   "price": 4.99,
+   "unit_text": "each (24 oz.)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bread.png",
+   "notes": "\"$1.00 (16%) Off Instant Savings\"; single loaf.",
+   "regular_price": 5.99
+  },
+  {
+   "id": "web-bjswholesaleclub-bread-9",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Artesano Brioche Bread, Soft And Delicious Sandwich Bread, 2 pk./20 oz.",
+   "price": 6.49,
+   "unit_text": "each (2 pk./20 oz.)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bread.png",
+   "notes": "Brioche style.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-bread-10",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Nature's Own Honey Wheat Bread, Non-GMO Sandwich Bread, 2 pk./20 oz.",
+   "price": 7.29,
+   "unit_text": "each (2 pk./20 oz.)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-butter-11",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Salted Butter Quarters, 4 ct./1 lb.",
+   "price": 11.79,
+   "unit_text": "each (4 ct./1 lb.)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_butter.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-butter-12",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Unsalted Butter, Quarters, 4 pk./1 lb.",
+   "price": 11.79,
+   "unit_text": "each (4 pk./1 lb.)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_butter.png",
+   "notes": "Unsalted.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-butter-13",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Land O'Lakes Salted Butter, 3 Pack/1 lb",
+   "price": 11.28,
+   "unit_text": "each (3 Pack/1 lb)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_butter.png",
+   "notes": "Sponsored listing. Coupon: \"$2.00 off\" (not subtracted).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-butter-14",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Kerrygold Grass-Fed Pure Irish Salted Butter Tub, 17.6 oz",
+   "price": 11.29,
+   "unit_text": "each (17.6 oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_butter.png",
+   "notes": "Sponsored listing. Tub (naturally softer) butter.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-cheddar_cheese-15",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Block Sharp Yellow Cheddar Cheese, 32 oz.",
+   "price": 6.29,
+   "unit_text": "each (32 oz.)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_cheddar_cheese.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-cheddar_cheese-16",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Block Sharp White Cheddar Cheese, 32 oz.",
+   "price": 6.29,
+   "unit_text": "each (32 oz.)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_cheddar_cheese.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-cheddar_cheese-17",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Sliced Sharp Cheddar Cheese, 2 lbs.",
+   "price": 7.29,
+   "unit_text": "each (2 lbs.)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_cheddar_cheese.png",
+   "notes": "Sliced.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-cheddar_cheese-18",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Sharp Cheddar Shreds 2 ct./24 oz.",
+   "price": 10.49,
+   "unit_text": "each (2 ct./24 oz.)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_cheddar_cheese.png",
+   "notes": "Shredded.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-chicken_breast-19",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Boneless Skinless Chicken Breasts, 4.5-6.5 lbs.",
+   "price": 2.19,
+   "unit_text": "per lb (apx 4.5-6.5 lbs.)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_chicken_breast.png",
+   "notes": "Sold by weight. Screen shows estimated package price range $9.86 - $14.23 next to $2.19/lb; price field holds the per-lb price. Screen showed est. package $2.19 for apx 4.5-6.5 lbs..",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-chicken_breast-20",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms No Antibiotics Ever Boneless Skinless Chicken Breast, 5.25-7.5 lbs.",
+   "price": 2.99,
+   "unit_text": "per lb (apx 5.25-7.5 lbs.)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_chicken_breast.png",
+   "notes": "Sold by weight. Screen shows estimated package price range $15.7 - $23.92 (low end displayed with single cents digit, i.e. $15.70) next to $2.99/lb; price field holds the per-lb price. Screen showed est. package $2.99 for apx 5.25-7.5 lbs..",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-chicken_breast-21",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Perdue NAE Boneless Skinless Chicken Breast Fillets, Individually Wrapped, 31g Protein, Pouches, 3 lbs.",
+   "price": 13.99,
+   "unit_text": "each (3 lbs.)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_chicken_breast.png",
+   "notes": "Individually wrapped fillets in pouches (likely frozen).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-chicken_breast-22",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Tyson Boneless Skinless Chicken Breast, 10 lbs.",
+   "price": 29.99,
+   "unit_text": "each (10 lbs.)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_chicken_breast.png",
+   "notes": "Bagged (likely frozen); package says contains up to 8% water.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-coffee-23",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Colombian Ground Coffee, Medium Roast, 40 oz.",
+   "price": 19.49,
+   "unit_text": "each (40 oz.)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_coffee.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-coffee-24",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms French Roast Ground Coffee, Dark Roast, 40 oz.",
+   "price": 19.49,
+   "unit_text": "each (40 oz.)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_coffee.png",
+   "notes": "\"42% Off In Cart\" badge (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-coffee-25",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast, Canister, 43.5 oz.",
+   "price": 19.49,
+   "unit_text": "each (43.5 oz.)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_coffee.png",
+   "notes": "Coupon: \"$2.40 off\" (not subtracted).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-coffee-26",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Maxwell House Medium Roast Original Ground Coffee, 43.1 oz.",
+   "price": 19.78,
+   "unit_text": "each (43.1 oz.)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_coffee.png",
+   "notes": "\"NEW Lower Price\" badge; coupon: \"$2.50 off\" (not subtracted).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-eggs-27",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Extra Large Cage Free White Eggs, 36 ct.",
+   "price": 6.69,
+   "unit_text": "each (36 ct.)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_eggs.png",
+   "notes": "Extra large, cage free.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-eggs-28",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Cage Free Large Brown Eggs, 18 ct.",
+   "price": 3.89,
+   "unit_text": "each (18 ct.)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_eggs.png",
+   "notes": "Cage free, brown.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-eggs-29",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Large White Eggs, 5 pk./12 ct.",
+   "price": 7.99,
+   "unit_text": "each (5 pk./12 ct.)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_eggs.png",
+   "notes": "Package image says 5 DOZEN.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-eggs-30",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Eggland's Best Cage Free Large White Eggs, 24 ct.",
+   "price": 8.69,
+   "unit_text": "each (24 ct.)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_eggs.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-ground_beef-31",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms 80% Lean Ground Beef, 9.75-10.5 lbs.",
+   "price": 5.39,
+   "unit_text": "per lb (apx 9.75-10.5 lbs.)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_ground_beef.png",
+   "notes": "Sold by weight. Screen shows estimated package price range $52.55 - $56.59 next to $5.39/lb; price field holds the per-lb price. \"42% off In Cart\" (not subtracted); While Supplies Last. Screen showed est. package $5.39 for apx 9.75-10.5 lbs..",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-ground_beef-32",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Swift & Company 73% Lean Ground Beef, 5 lbs.",
+   "price": 21.99,
+   "unit_text": "each (5 lbs.)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_ground_beef.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-ground_beef-33",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms 93% Lean Ground Beef, 4 lbs.",
+   "price": 26.49,
+   "unit_text": "each (4 lbs.)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_ground_beef.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-ground_beef-34",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Farm To Table Fresh 96% Lean Ground Beef Sirloin, 2 lbs.",
+   "price": 15.99,
+   "unit_text": "each (2 lbs.)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_ground_beef.png",
+   "notes": "Sirloin, 96% lean.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-milk-35",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Whole Milk, 1 gal.",
+   "price": 3.3,
+   "unit_text": "each (1 gal.)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_milk.png",
+   "notes": "Price displayed as $3 with superscript 3 (site drops the trailing zero, as in $15.7 elsewhere); read as $3.30.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-milk-36",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms 2% Reduced-Fat Milk, 1 gal.",
+   "price": 3.21,
+   "unit_text": "each (1 gal.)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_milk.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-milk-37",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms 1% Low-Fat Milk, 1 gal.",
+   "price": 3.12,
+   "unit_text": "each (1 gal.)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_milk.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-milk-38",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Lactaid Whole Lactose-Free Milk, 96 oz.",
+   "price": 5.99,
+   "unit_text": "each (96 oz.)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_milk.png",
+   "notes": "Lactose-free.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-pasta-39",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Barilla Penne, Spaghetti and Elbows Pasta, 6 pk./1 lb.",
+   "price": 9.99,
+   "unit_text": "each (6 pk./1 lb.)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-pasta-40",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Barilla Elbows Pasta, 6 pk./1 lb.",
+   "price": 9.99,
+   "unit_text": "each (6 pk./1 lb.)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_pasta.png",
+   "notes": "Availability checkmarks cut off at bottom of screenshot.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-pasta-41",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Barilla Classic Penne Pasta, Boxes, 8 pk./1 lb.",
+   "price": 12.99,
+   "unit_text": "each (8 pk./1 lb.)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_pasta.png",
+   "notes": "Availability checkmarks cut off at bottom of screenshot.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-pasta-42",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Barilla Spaghetti Pasta, Non-GMO Pasta With Durum Wheat Semolina, Kosher Certified Pasta, 8 pk./1 lb.",
+   "price": 12.99,
+   "unit_text": "each (8 pk./1 lb.)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_pasta.png",
+   "notes": "Availability checkmarks cut off at bottom of screenshot.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-potatoes-43",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Idaho Potatoes, 5 lbs.",
+   "price": 3.99,
+   "unit_text": "each (5 lbs.)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_potatoes.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-potatoes-44",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Russet Potatoes, 10 lbs.",
+   "price": 6.99,
+   "unit_text": "each (10 lbs.)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_potatoes.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-potatoes-45",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Yellow Potatoes, 10 lbs.",
+   "price": 8.39,
+   "unit_text": "each (10 lbs.)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_potatoes.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-potatoes-46",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Red Potatoes, 10 lbs.",
+   "price": 8.79,
+   "unit_text": "each (10 lbs.)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_potatoes.png",
+   "notes": "\"42% off In Cart\" (not subtracted); While Supplies Last.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-rice-47",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Thai Hom Mali Jasmine Rice, 25 lbs.",
+   "price": 24.28,
+   "unit_text": "each (25 lbs.)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_rice.png",
+   "notes": "Jasmine rice.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-rice-48",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Thai Hom Mali Jasmine Rice, 10 lbs.",
+   "price": 13.99,
+   "unit_text": "each (10 lbs.)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_rice.png",
+   "notes": "Jasmine rice.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-rice-49",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Royal Basmati Rice, 20 lbs.",
+   "price": 19.98,
+   "unit_text": "each (20 lbs.)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_rice.png",
+   "notes": "Basmati rice; availability checkmarks cut off at bottom of screenshot.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-rice-50",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Minute Instant White Rice, Gluten-Free, 72 oz.",
+   "price": 9.29,
+   "unit_text": "each (72 oz.)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_rice.png",
+   "notes": "Instant (dry, uncooked) rice. Coupon: \"$1.00 off\" (not subtracted).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-tomatoes-51",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Sunset Tomatoes on the Vine, 2 lbs.",
+   "price": 4.29,
+   "unit_text": "each (2 lbs.)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_tomatoes.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-tomatoes-52",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Roma Tomatoes, 3 lbs.",
+   "price": 5.99,
+   "unit_text": "each (3 lbs.)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_tomatoes.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-tomatoes-53",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Campari Tomatoes, 2 lbs.",
+   "price": 5.48,
+   "unit_text": "each (2 lbs.)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_tomatoes.png",
+   "notes": "Coupon: \"$1.00 off\" (not subtracted).",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-tomatoes-54",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Beefsteak Tomatoes, 6 ct.",
+   "price": 7.69,
+   "unit_text": "each (6 ct.)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_tomatoes.png",
+   "notes": "Sold by count, not weight.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-yogurt-55",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Wellsley Farms Nonfat Greek Yogurt, Grade A, Vanilla, 40 oz.",
+   "price": 4.69,
+   "unit_text": "each (40 oz.)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_yogurt.png",
+   "notes": "Greek, vanilla flavored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-yogurt-56",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Chobani Non-Fat Greek Yogurt, Plain, 40 oz.",
+   "price": 6.99,
+   "unit_text": "each (40 oz.)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_yogurt.png",
+   "notes": "Greek, plain.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-yogurt-57",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Chobani 0% Blended Greek Yogurt, Vanilla, 40 oz.",
+   "price": 6.99,
+   "unit_text": "each (40 oz.)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_yogurt.png",
+   "notes": "Greek, vanilla.",
+   "regular_price": null
+  },
+  {
+   "id": "web-bjswholesaleclub-yogurt-58",
+   "store_brand": "BJ's Wholesale Club",
+   "name": "Yoplait Original Yogurt Variety Pack, Harvest Peach, Strawberry, French Vanilla, 24 pk./6 oz.",
+   "price": 13.99,
+   "unit_text": "each (24 pk./6 oz.)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "bjs.com",
+   "basis": "BJ's website price for the North Haven club (membership required), checked 2026-10-26.",
+   "screenshot": "bjs_yogurt.png",
+   "notes": "Flavored cups variety pack.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bacon-1",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Bacon, Hickory Smoked, Sliced, 1 lb, 4-count",
+   "price": 15.88,
+   "unit_text": "each (1 lb, 4-count (4 ct))",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bacon.png",
+   "notes": "Channel inferred from Instacart-style layout (blue '+ Add' pills, superscript cents, 'Sponsored' tiles); no address bar visible.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bacon-2",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Thick Sliced Bacon, 1.5 lbs, 2-count",
+   "price": 14.74,
+   "unit_text": "each (1.5 lbs, 2-count (2 ct))",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bacon.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bananas-3",
+   "store_brand": "Costco",
+   "name": "Bananas, 3 lbs",
+   "price": 1.69,
+   "unit_text": "each (3 lbs)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bananas.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bananas-4",
+   "store_brand": "Costco",
+   "name": "Organic Bananas, 3 lbs",
+   "price": 2.49,
+   "unit_text": "each (3 lbs)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bananas.png",
+   "notes": "Organic. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bread-5",
+   "store_brand": "Costco",
+   "name": "Wonder Classic White Bread, 20 oz, 2 count",
+   "price": 5.66,
+   "unit_text": "each (20 oz, 2 count (2 ct))",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bread.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bread-6",
+   "store_brand": "Costco",
+   "name": "Schmidt Italian Bread, 20 oz, 2-count",
+   "price": 5.1,
+   "unit_text": "each (20 oz, 2-count (2 ct))",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bread.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-bread-7",
+   "store_brand": "Costco",
+   "name": "Pepperidge Farm Hearty White Bread, 24 oz, 2 count",
+   "price": 7.37,
+   "unit_text": "each (24 oz, 2 count (2 ct))",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_bread.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-butter-8",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Salted Sweet Cream Butter, 16 oz, 4-count",
+   "price": 10.2,
+   "unit_text": "each (16 oz, 4-count (16 ct))",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_butter.png",
+   "notes": "Size line shows '16 ct' while name says '16 oz, 4-count' (likely 4 x 1 lb, each of 4 sticks); copied as shown. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-butter-9",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Unsalted Sweet Cream Butter, 4 oz, 4-count",
+   "price": 10.2,
+   "unit_text": "each (4 oz, 4-count (16 ct))",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_butter.png",
+   "notes": "Name/size as shown are internally inconsistent ('4 oz, 4-count' vs '16 ct'); total weight not stated unambiguously. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-butter-10",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Grass-Fed Butter, 8 oz, 4-count",
+   "price": 12.47,
+   "unit_text": "each (8 oz, 4-count (4 ct))",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_butter.png",
+   "notes": "Grass-fed, salted. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-cheddar_cheese-11",
+   "store_brand": "Costco",
+   "name": "Adams Reserve Extra Sharp Cheddar Cheese Slices, 16 oz, 2-count",
+   "price": 9.86,
+   "unit_text": "each (16 oz, 2-count)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_cheddar_cheese.png",
+   "notes": "Sliced. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-cheddar_cheese-12",
+   "store_brand": "Costco",
+   "name": "Cabot 3 Year Aged Cheddar",
+   "price": 7.71,
+   "unit_text": "per lb (About 2.08 lb / package)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_cheddar_cheese.png",
+   "notes": "Price shown as '/pkg (est.)' - estimated package price, sold by weight. Channel inferred from Instacart-style layout. Screen showed est. package $16.04 for About 2.08 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-cheddar_cheese-13",
+   "store_brand": "Costco",
+   "name": "Kerrygold Reserve Cheddar, Aged 24 Months",
+   "price": 7.93,
+   "unit_text": "per lb (About 1.81 lb / package)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_cheddar_cheese.png",
+   "notes": "Price shown as '/pkg (est.)' - estimated package price, sold by weight. Channel inferred from Instacart-style layout. Screen showed est. package $14.35 for About 1.81 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-chicken_breast-14",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Fresh Boneless Skinless Chicken Breasts, 6 lb Avg Wt",
+   "price": 3.39,
+   "unit_text": "per lb (About 8.4 lb / package)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_chicken_breast.png",
+   "notes": "Sale price '/pkg (est.)', was $28.48, '$6 off'. Estimated package price, sold by weight; name says 6 lb Avg Wt but page says About 8.4 lb / package. Channel inferred from Instacart-style layout. Screen showed est. package $22.48 for About 8.4 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-chicken_breast-15",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature \"Air-Chilled\" Fresh Boneless Skinless Chicken Breasts",
+   "price": 3.39,
+   "unit_text": "per lb (About 8.67 lb / package)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_chicken_breast.png",
+   "notes": "Sale price '/pkg (est.)', was $29.37, '$6 off'. Estimated package price, sold by weight. Channel inferred from Instacart-style layout. Screen showed est. package $23.37 for About 8.67 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-chicken_breast-16",
+   "store_brand": "Costco",
+   "name": "Fresh Fryer Chicken Breast, Boneless Skinless",
+   "price": 3.39,
+   "unit_text": "per lb (About 8.71 lb / package)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_chicken_breast.png",
+   "notes": "Sale price '/pkg (est.)', was $29.53, '$6 off'. Estimated package price, sold by weight. Channel inferred from Instacart-style layout. Screen showed est. package $23.53 for About 8.71 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-coffee-17",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Colombian Coffee, Dark Roast, 3 lbs",
+   "price": 23.82,
+   "unit_text": "each (3 lbs)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_coffee.png",
+   "notes": "Can; ground vs whole bean not stated in name. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-coffee-18",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Medium Roast Coffee, 40 oz",
+   "price": 20.99,
+   "unit_text": "each (40 oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_coffee.png",
+   "notes": "Bag; ground vs whole bean not stated in name. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-coffee-19",
+   "store_brand": "Costco",
+   "name": "Folgers Classic Roast Ground Coffee, Medium, 43.5 oz",
+   "price": 20.99,
+   "unit_text": "each (43.5 oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_coffee.png",
+   "notes": "Ground. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-eggs-20",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Eggs, Large, 24-count",
+   "price": 4.3,
+   "unit_text": "each (24-count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_eggs.png",
+   "notes": "Cage-free Grade AA per package image. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-eggs-21",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Eggs, Large, 5 dozen-count",
+   "price": 10.66,
+   "unit_text": "each (5 dozen-count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_eggs.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-eggs-22",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Free Range Large Eggs Usda Grade A, 24-count",
+   "price": 6.0,
+   "unit_text": "each (24-count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_eggs.png",
+   "notes": "Free range. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-ground_beef-23",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Ground Beef, 1.33 lbs, 3-count",
+   "price": 28.36,
+   "unit_text": "each (3 x 1.33 lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_ground_beef.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-ground_beef-24",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Ground Beef 88% Lean / 12% Fat",
+   "price": 6.8,
+   "unit_text": "per lb (About 5.95 lb / package)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_ground_beef.png",
+   "notes": "Price shown as '/pkg (est.)' - estimated package price, sold by weight. Channel inferred from Instacart-style layout. Screen showed est. package $40.43 for About 5.95 lb / package.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-ground_beef-25",
+   "store_brand": "Costco",
+   "name": "Diamond Valley Halal Ground Beef, 1 lb, 4-count",
+   "price": 34.04,
+   "unit_text": "each (1 lb, 4-count)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_ground_beef.png",
+   "notes": "Halal. Chosen over Rastelli's Grass-Fed ('4 lbs' / '3 x 4 lb', ambiguous size). Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-milk-26",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Whole Milk, 1 gal",
+   "price": 4.82,
+   "unit_text": "each (1 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_milk.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-milk-27",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature 2% Reduced Fat Milk, 1 gal",
+   "price": 4.64,
+   "unit_text": "each (1 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_milk.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-milk-28",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature Low Fat 1% Milk, 1 gal",
+   "price": 4.49,
+   "unit_text": "each (1 gal)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_milk.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-pasta-29",
+   "store_brand": "Costco",
+   "name": "Barilla Penne Pasta, 1 lb, 8-count",
+   "price": 7.93,
+   "unit_text": "each (8 x 1 lb)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_pasta.png",
+   "notes": "Sale price, was $10.93 ('$3 off'). Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-pasta-30",
+   "store_brand": "Costco",
+   "name": "Barilla Spaghetti Thin Noodles, 1 lb, 8-count",
+   "price": 7.93,
+   "unit_text": "each (1 lb, 8-count (128 oz))",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_pasta.png",
+   "notes": "Sale price, was $10.93 ('$3 off'). Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-pasta-31",
+   "store_brand": "Costco",
+   "name": "Barilla Pasta, Variety Pack, 1 lb, 7-count",
+   "price": 10.2,
+   "unit_text": "each (1 lb, 7-count (7 ct))",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_pasta.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-potatoes-32",
+   "store_brand": "Costco",
+   "name": "Baking Potatoes, 10 lbs",
+   "price": 7.93,
+   "unit_text": "each (10 lbs)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_potatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-potatoes-33",
+   "store_brand": "Costco",
+   "name": "Small Red Potatoes, 10 lbs",
+   "price": 7.93,
+   "unit_text": "each (10 lbs)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_potatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-potatoes-34",
+   "store_brand": "Costco",
+   "name": "Gold Potatoes, 10 lbs",
+   "price": 10.2,
+   "unit_text": "each (10 lbs)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_potatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-rice-35",
+   "store_brand": "Costco",
+   "name": "Eastside Rice, Long Grain, 25 lbs",
+   "price": 13.61,
+   "unit_text": "each (25 lb)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_rice.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-rice-36",
+   "store_brand": "Costco",
+   "name": "Eastside Rice, Long Grain, 50 lbs",
+   "price": 26.09,
+   "unit_text": "each (50 lbs)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_rice.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-rice-37",
+   "store_brand": "Costco",
+   "name": "Kirkland Signature, Thai Hom Mali Jasmine Rice, 25 lbs",
+   "price": 27.23,
+   "unit_text": "each (25 lbs)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_rice.png",
+   "notes": "Jasmine. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-tomatoes-38",
+   "store_brand": "Costco",
+   "name": "Tomatoes on the Vine, Greenhouse Grown, 4 lbs",
+   "price": 9.64,
+   "unit_text": "each (4 lbs)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_tomatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-tomatoes-39",
+   "store_brand": "Costco",
+   "name": "Roma Tomato Hothouse Grown, 3 lbs",
+   "price": 6.8,
+   "unit_text": "each (3 lb)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_tomatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-tomatoes-40",
+   "store_brand": "Costco",
+   "name": "Grape Tomatoes, 2 lbs",
+   "price": 7.37,
+   "unit_text": "each (2 lbs)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_tomatoes.png",
+   "notes": "Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-yogurt-41",
+   "store_brand": "Costco",
+   "name": "Skotidakis 5% Greek Yogurt, 48 oz",
+   "price": 6.8,
+   "unit_text": "each (48 oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_yogurt.png",
+   "notes": "Plain whole-milk Greek yogurt per package image. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-costco-yogurt-42",
+   "store_brand": "Costco",
+   "name": "Dahi Indian Style Plain Yogurt, 5 lbs",
+   "price": 7.37,
+   "unit_text": "each (5 lbs)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "sameday.costco.com",
+   "basis": "Costco Same-Day (Instacart) price, checked 2026-10-25. Warehouse prices are usually lower.",
+   "screenshot": "costco_yogurt.png",
+   "notes": "Only 2 plain yogurts visible; others are flavored variety packs/drinks. Channel inferred from Instacart-style layout.",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bacon-1",
+   "store_brand": "ShopRite",
+   "name": "Butterball Original Turkey Bacon, 12 oz",
+   "price": 4.39,
+   "unit_text": "each (12 oz), $0.37/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bacon.png",
+   "notes": "Turkey bacon; no pork bacon visible in screenshot",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bacon-2",
+   "store_brand": "ShopRite",
+   "name": "Butterball Lower Sodium Turkey Bacon, 12 oz",
+   "price": 4.39,
+   "unit_text": "each (12 oz), $0.37/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bacon.png",
+   "notes": "Turkey bacon, lower sodium",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bacon-3",
+   "store_brand": "ShopRite",
+   "name": "Godshall's Original Turkey Bacon, 12 oz",
+   "price": 7.49,
+   "unit_text": "each (12 oz), $0.62/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bacon.png",
+   "notes": "Turkey bacon",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bacon-4",
+   "store_brand": "ShopRite",
+   "name": "Arnold's Premium Smoked Beef Bacon, 12 oz",
+   "price": 11.99,
+   "unit_text": "each (12 oz), $1.00/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bacon.png",
+   "notes": "Beef bacon",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bananas-5",
+   "store_brand": "ShopRite",
+   "name": "Fresh Yellow Banana",
+   "price": 0.54,
+   "unit_text": "per lb (About 1 ea (avg))",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bananas.png",
+   "notes": "$0.19 avg/ea; Final cost based on weight; no weight shown Screen showed est. package $0.19 for About 1 ea (avg).",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bananas-6",
+   "store_brand": "ShopRite",
+   "name": "Fresh Organic Bananas, Average Weight 2.5 lbs per bunch",
+   "price": 0.79,
+   "unit_text": "per lb (About 2.5 lbs per bunch)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bananas.png",
+   "notes": "Organic; $1.98 avg/ea; Final cost based on weight Screen showed est. package $1.98 for About 2.5 lbs per bunch.",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bananas-7",
+   "store_brand": "ShopRite",
+   "name": "Fresh Green Cooking Bananas",
+   "price": 0.69,
+   "unit_text": "per lb (About 1 ea (avg))",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bananas.png",
+   "notes": "Green cooking bananas; $0.35 avg/ea; Final cost based on weight; no weight shown Screen showed est. package $0.35 for About 1 ea (avg).",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-bread-8",
+   "store_brand": "ShopRite",
+   "name": "The Avocado Bread Company Seeds & Grains Sliced Bread, 24 oz",
+   "price": 5.99,
+   "unit_text": "each (24 oz), $0.25/oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_bread.png",
+   "notes": "Only item clearly labeled as a sliced loaf",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-butter-9",
+   "store_brand": "ShopRite",
+   "name": "Truly Grass Fed Natural Creamy Unsalted Butter, 8 oz",
+   "price": 6.49,
+   "unit_text": "each (8 oz), $0.81/oz",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_butter.png",
+   "notes": "Sponsored listing; grass-fed unsalted",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-cheddar_cheese-10",
+   "store_brand": "ShopRite",
+   "name": "Cracker Barrel Sharp Yellow Cheddar Cheese, 8 oz",
+   "price": 4.69,
+   "unit_text": "each (8 oz), $0.59/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_cheddar_cheese.png",
+   "notes": "Sponsored listing",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-cheddar_cheese-11",
+   "store_brand": "ShopRite",
+   "name": "Cracker Barrel Extra Sharp White Reduced Fat Cheddar Cheese, 8 oz",
+   "price": 4.69,
+   "unit_text": "each (8 oz), $0.59/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_cheddar_cheese.png",
+   "notes": "Sponsored listing; reduced fat",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-cheddar_cheese-12",
+   "store_brand": "ShopRite",
+   "name": "Black Bear Sharp Cheddar Cheese Cubes, 8 oz",
+   "price": 5.99,
+   "unit_text": "each (8 oz), $0.75/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_cheddar_cheese.png",
+   "notes": "Cubed",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-cheddar_cheese-13",
+   "store_brand": "ShopRite",
+   "name": "Original Herkimer Cheese Cheddar Cheese, 8 oz",
+   "price": 6.99,
+   "unit_text": "each (8 oz), $0.87/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_cheddar_cheese.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-chicken_breast-14",
+   "store_brand": "ShopRite",
+   "name": "Value Size Boneless Skinless Chicken Breast",
+   "price": 2.69,
+   "unit_text": "per lb",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_chicken_breast.png",
+   "notes": "$2.69/lb; Final cost based on weight; package weight not shown (placeholder image)",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-chicken_breast-16",
+   "store_brand": "ShopRite",
+   "name": "Bell & Evans Boneless, Skinless Chicken Breasts",
+   "price": 7.99,
+   "unit_text": "each, $7.99/lb",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_chicken_breast.png",
+   "notes": "$7.99 avg/ea; Final cost based on weight; package weight not shown. Another listing with the same name shows $26.22 avg/ea at $7.49/lb (not recorded)",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-chicken_breast-17",
+   "store_brand": "ShopRite",
+   "name": "Empire Kosher Boneless & Skinless Chicken Breasts",
+   "price": 7.99,
+   "unit_text": "each, $7.99/lb",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_chicken_breast.png",
+   "notes": "Kosher; $7.99 avg/ea; Final cost based on weight; package weight not shown",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-coffee-18",
+   "store_brand": "ShopRite",
+   "name": "Starbucks Single-Origin Colombia Medium Roast Ground Coffee, 12",
+   "price": 13.19,
+   "unit_text": "each (12 [unit cut off on screen]), $1.10/oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_coffee.png",
+   "notes": "Product name truncated on screen after '12'; size unit not visible",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-eggs-19",
+   "store_brand": "ShopRite",
+   "name": "Eggland's Best Classic Large White Eggs, 12 Count",
+   "price": 3.99,
+   "unit_text": "each (12 Count), $0.33 each",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_eggs.png",
+   "notes": "Sponsored listing",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-eggs-20",
+   "store_brand": "ShopRite",
+   "name": "Bowl & Basket White Eggs, Large, 30 Count, 60 oz",
+   "price": 4.19,
+   "unit_text": "each (30 Count, 60 oz), $0.14 each",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_eggs.png",
+   "notes": "ShopRite store brand",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-eggs-21",
+   "store_brand": "ShopRite",
+   "name": "Land O Lakes Cage Free Large White Eggs, 12 count, 24 oz",
+   "price": 5.49,
+   "unit_text": "each (12 count, 24 oz), $0.46 each",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_eggs.png",
+   "notes": "Sponsored listing; cage free",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-eggs-22",
+   "store_brand": "ShopRite",
+   "name": "Eggland's Best Classic Large White Eggs, 18 Count",
+   "price": 5.79,
+   "unit_text": "each (18 Count), $0.32 each",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_eggs.png",
+   "notes": "Sponsored listing",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-ground_beef-23",
+   "store_brand": "ShopRite",
+   "name": "Ground Beef 75% Lean, 1 pound",
+   "price": 5.99,
+   "unit_text": "per lb (1 pound)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_ground_beef.png",
+   "notes": "$5.99/lb; Final cost based on weight",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-ground_beef-24",
+   "store_brand": "ShopRite",
+   "name": "Certified Angus Beef 80% Lean 20% Fat Ground Beef Chuck, 16 oz",
+   "price": 6.99,
+   "unit_text": "each (16 oz), $0.44/oz",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_ground_beef.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-ground_beef-25",
+   "store_brand": "ShopRite",
+   "name": "Empire Kosher Ground Beef, 16 oz",
+   "price": 8.99,
+   "unit_text": "each (16 oz), $0.56/oz",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_ground_beef.png",
+   "notes": "Kosher",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-ground_beef-26",
+   "store_brand": "ShopRite",
+   "name": "Prepacked 85% Lean Ground Beef, 1.3 pound",
+   "price": 6.99,
+   "unit_text": "per lb (About 1.3 pound)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_ground_beef.png",
+   "notes": "$9.09 avg/ea; Final cost based on weight Screen showed est. package $9.09 for About 1.3 pound.",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-milk-27",
+   "store_brand": "ShopRite",
+   "name": "Fairlife Fat Free Ultra-Filtered Milk, 52 fl oz",
+   "price": 5.99,
+   "unit_text": "each (52 fl oz), $0.12/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_milk.png",
+   "notes": "Sponsored listing; ultra-filtered (package says lactose free)",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-milk-28",
+   "store_brand": "ShopRite",
+   "name": "Organic Valley Lactose Free 2% Reduced Fat Milk, half gallon",
+   "price": 6.99,
+   "unit_text": "each (half gallon), $0.11/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_milk.png",
+   "notes": "Organic, lactose free",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-pasta-29",
+   "store_brand": "ShopRite",
+   "name": "Buitoni Fettuccine Pasta, 9 oz",
+   "price": 2.99,
+   "unit_text": "each (9 oz), $0.33/oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_pasta.png",
+   "notes": "Badge '2 for $4.00'; $2.99 'With Price Plus Club Card'; Offer Valid Week of Oct 25th. Buitoni is likely refrigerated fresh pasta, not dry",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-pasta-30",
+   "store_brand": "ShopRite",
+   "name": "Buitoni Linguine Pasta, 9 oz",
+   "price": 2.99,
+   "unit_text": "each (9 oz), $0.33/oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_pasta.png",
+   "notes": "Badge '2 for $4.00'; $2.99 'With Price Plus Club Card'; Offer Valid Week of Oct 25th. Buitoni is likely refrigerated fresh pasta, not dry",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-potatoes-31",
+   "store_brand": "ShopRite",
+   "name": "Fresh Red Potato",
+   "price": 1.49,
+   "unit_text": "per lb (About 1 ea (avg))",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_potatoes.png",
+   "notes": "$0.47 avg/ea; Final cost based on weight; no weight shown Screen showed est. package $0.47 for About 1 ea (avg).",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-potatoes-32",
+   "store_brand": "ShopRite",
+   "name": "Fresh Yellow Potato",
+   "price": 1.49,
+   "unit_text": "per lb (About 1 ea (avg))",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_potatoes.png",
+   "notes": "$0.56 avg/ea; Final cost based on weight; no weight shown Screen showed est. package $0.56 for About 1 ea (avg).",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-potatoes-33",
+   "store_brand": "ShopRite",
+   "name": "Fresh Baking Potato",
+   "price": 0.99,
+   "unit_text": "per lb (About 1 ea (avg))",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_potatoes.png",
+   "notes": "$0.74 avg/ea; Final cost based on weight; no weight shown Screen showed est. package $0.74 for About 1 ea (avg).",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-rice-34",
+   "store_brand": "ShopRite",
+   "name": "Arroz Rico Jasmine Rice, 5 lb",
+   "price": 5.79,
+   "unit_text": "each (5 lb), $0.07/oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_rice.png",
+   "notes": "On Sale! Limit 4; was $6.99; Offer Valid Week of Oct 25th",
+   "regular_price": 6.99
+  },
+  {
+   "id": "web-shoprite-rice-35",
+   "store_brand": "ShopRite",
+   "name": "Arroz Rico Medium Grain Rice, 5 lb",
+   "price": 5.99,
+   "unit_text": "each (5 lb), $1.20/lb",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_rice.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-rice-36",
+   "store_brand": "ShopRite",
+   "name": "Arroz Rico Long Grain Rice, 20 lb",
+   "price": 12.49,
+   "unit_text": "each (20 lb), $0.62/lb",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_rice.png",
+   "notes": "On Sale! Limit 4; was $14.99; Offer Valid Week of Oct 25th",
+   "regular_price": 14.99
+  },
+  {
+   "id": "web-shoprite-tomatoes-37",
+   "store_brand": "ShopRite",
+   "name": "Fresh Organic Plum Tomatoes, 1 lb bag",
+   "price": 2.99,
+   "unit_text": "each (1 lb bag)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_tomatoes.png",
+   "notes": "Organic",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-tomatoes-38",
+   "store_brand": "ShopRite",
+   "name": "Bowl & Basket Grape Tomatoes, 1 pint",
+   "price": 3.49,
+   "unit_text": "each (1 pint)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_tomatoes.png",
+   "notes": "ShopRite store brand",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-tomatoes-39",
+   "store_brand": "ShopRite",
+   "name": "Sunset® Organic Beefsteak Tomatoes, 12 oz",
+   "price": 3.99,
+   "unit_text": "each (12 oz)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_tomatoes.png",
+   "notes": "Organic",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-tomatoes-40",
+   "store_brand": "ShopRite",
+   "name": "Sunset Organic Campari Tomatoes, 6 count, 12 oz",
+   "price": 4.99,
+   "unit_text": "each (6 count, 12 oz)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_tomatoes.png",
+   "notes": "Organic",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-yogurt-41",
+   "store_brand": "ShopRite",
+   "name": "Dannon Light + Fit Greek Vanilla Fat Free Yogurt, 5.3 oz, 4 count",
+   "price": 4.99,
+   "unit_text": "each (5.3 oz, 4 count), $0.24/oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_yogurt.png",
+   "notes": "Sponsored listing; Greek, vanilla, fat free",
+   "regular_price": null
+  },
+  {
+   "id": "web-shoprite-yogurt-42",
+   "store_brand": "ShopRite",
+   "name": ":ratio Pro-Fiber Blueberry Yogurt Cultured Dairy Snack, 5.3 oz",
+   "price": 1.67,
+   "unit_text": "each (5.3 oz), $0.31/oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "shoprite.com",
+   "basis": "ShopRite website price for the 2100 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "shoprite_yogurt.png",
+   "notes": "Badge '3 for $5.00'; was $2.49; Offer Valid Week of Oct 25th. High-protein/fiber 'cultured dairy snack', not plain yogurt",
+   "regular_price": 2.49
+  },
+  {
+   "id": "web-stopshop-bacon-1",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Hickory Smoked Premium Cut Bacon Sliced",
+   "price": 4.49,
+   "unit_text": "each (16 oz pkg), $4.49 /lb",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bacon.png",
+   "notes": "SALE badge; $4.99 shown struck through",
+   "regular_price": 4.99
+  },
+  {
+   "id": "web-stopshop-bacon-2",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Premium Thick Cut Bacon Sliced",
+   "price": 4.49,
+   "unit_text": "each (16 oz pkg), $4.49 /lb",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bacon.png",
+   "notes": "SALE badge; $4.99 shown struck through",
+   "regular_price": 4.99
+  },
+  {
+   "id": "web-stopshop-bacon-3",
+   "store_brand": "Stop & Shop",
+   "name": "Jimmy Dean Premium Hickory Smoked Bacon Sliced",
+   "price": 4.79,
+   "unit_text": "each (12 oz pkg), $6.39 /lb",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bacon.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bananas-4",
+   "store_brand": "Stop & Shop",
+   "name": "Yellow Bananas apx 4-6 ct",
+   "price": 1.66,
+   "unit_text": "each (1 bunch), $1.66 /ea",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bananas.png",
+   "notes": "Price per bunch",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bananas-5",
+   "store_brand": "Stop & Shop",
+   "name": "Green Bananas apx 4-6 ct",
+   "price": 1.66,
+   "unit_text": "each (1 bunch), $1.66 /ea",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bananas.png",
+   "notes": "Price per bunch",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bananas-6",
+   "store_brand": "Stop & Shop",
+   "name": "Organic Bananas apx 4-7 ct",
+   "price": 2.33,
+   "unit_text": "each (1 bunch), $2.33 /ea",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bananas.png",
+   "notes": "Organic; price per bunch",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bread-7",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Round Top White Bread Sliced",
+   "price": 1.49,
+   "unit_text": "each (16 oz pkg), $0.09 /oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bread-8",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Big Daisy Enriched White Bread Sliced",
+   "price": 2.19,
+   "unit_text": "each (20 oz pkg), $0.11 /oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-bread-9",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Split Top Wheat Bread Sliced",
+   "price": 2.79,
+   "unit_text": "each (20 oz pkg), $0.14 /oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-butter-10",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Salted Sweet Cream Butter Sticks - 4 ct",
+   "price": 3.99,
+   "unit_text": "each (16 oz box), $3.99 /lb",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_butter.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-butter-11",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Unsalted Sweet Cream Butter Sticks - 4 ct",
+   "price": 3.99,
+   "unit_text": "each (16 oz box), $3.99 /lb",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_butter.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-butter-12",
+   "store_brand": "Stop & Shop",
+   "name": "Land O Lakes Salted Butter Sticks - 4 ct",
+   "price": 3.99,
+   "unit_text": "each (16 oz box), $3.99 /lb",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_butter.png",
+   "notes": "SALE badge; $6.49 shown struck through",
+   "regular_price": 6.49
+  },
+  {
+   "id": "web-stopshop-cheddar_cheese-13",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Extra Sharp Yellow Cheddar Cheese Block",
+   "price": 2.19,
+   "unit_text": "each (8 oz pkg), $4.38 /lb",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_cheddar_cheese.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-cheddar_cheese-14",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Vermont Sharp White Cheddar Cheese Block",
+   "price": 2.19,
+   "unit_text": "each (8 oz pkg), $4.38 /lb",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_cheddar_cheese.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-cheddar_cheese-15",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Finely Shredded Sharp Cheddar Cheese",
+   "price": 2.19,
+   "unit_text": "each (8 oz bag), $4.38 /lb",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_cheddar_cheese.png",
+   "notes": "Shredded",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-chicken_breast-16",
+   "store_brand": "Stop & Shop",
+   "name": "Perdue Natural Boneless Skinless Chicken Breasts - 2-3 ct",
+   "price": 1.99,
+   "unit_text": "per lb (apx 1.5 lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_chicken_breast.png",
+   "notes": "SALE badge; $8.99 shown struck through; price is estimated package price for approximate weight Screen showed est. package $2.99 for apx 1.5 lb.",
+   "regular_price": 8.99
+  },
+  {
+   "id": "web-stopshop-chicken_breast-17",
+   "store_brand": "Stop & Shop",
+   "name": "Perdue Thin Sliced Boneless Skinless Chicken Breasts - 5-6 ct",
+   "price": 1.99,
+   "unit_text": "per lb (apx 1.25 lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_chicken_breast.png",
+   "notes": "SALE badge; $8.11 shown struck through; price is estimated package price for approximate weight Screen showed est. package $2.49 for apx 1.25 lb.",
+   "regular_price": 8.11
+  },
+  {
+   "id": "web-stopshop-chicken_breast-18",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Boneless Skinless Chicken Breasts w/Rib Meat Family Size Fresh",
+   "price": 2.49,
+   "unit_text": "per lb (apx 4-5 lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_chicken_breast.png",
+   "notes": "SALE badge; $13.46 shown struck through; price is estimated package price for approximate weight Screen showed est. package $11.21 for apx 4-5 lb.",
+   "regular_price": 13.46
+  },
+  {
+   "id": "web-stopshop-coffee-19",
+   "store_brand": "Stop & Shop",
+   "name": "Cafe Bustelo Espresso Dark Roast Ground Coffee Vacuum Pack",
+   "price": 4.99,
+   "unit_text": "each (10 oz pkg), $0.50 /oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_coffee.png",
+   "notes": "SALE badge; $6.79 shown struck through",
+   "regular_price": 6.79
+  },
+  {
+   "id": "web-stopshop-coffee-20",
+   "store_brand": "Stop & Shop",
+   "name": "New England Coffee Breakfast Blend Medium Roast Ground Coffee",
+   "price": 5.99,
+   "unit_text": "each (12 oz bag), $0.50 /oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_coffee.png",
+   "notes": "SALE badge; $9.79 shown struck through",
+   "regular_price": 9.79
+  },
+  {
+   "id": "web-stopshop-coffee-21",
+   "store_brand": "Stop & Shop",
+   "name": "Eight O'Clock Original Medium Roast Ground Coffee",
+   "price": 9.49,
+   "unit_text": "each (11 oz bag), $0.86 /oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_coffee.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-eggs-22",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Large White Eggs - 12 ct",
+   "price": 1.99,
+   "unit_text": "each (1 doz), $1.99 /doz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_eggs.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-eggs-23",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Extra Large White Eggs - 12 ct",
+   "price": 2.29,
+   "unit_text": "each (1 doz), $2.29 /doz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_eggs.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-eggs-24",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Jumbo White Eggs - 12 ct",
+   "price": 2.39,
+   "unit_text": "each (1 doz), $2.39 /doz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_eggs.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-ground_beef-25",
+   "store_brand": "Stop & Shop",
+   "name": "Nature's Promise 100% Grass-fed 80% Lean 20% Fat Ground Beef",
+   "price": 6.02,
+   "unit_text": "each (16 oz pkg), $6.02 /lb",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_ground_beef.png",
+   "notes": "SALE badge; $8.99 shown struck through",
+   "regular_price": 8.99
+  },
+  {
+   "id": "web-stopshop-ground_beef-26",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop All Natural 80% Lean 20% Fat Ground Beef Fresh",
+   "price": 6.29,
+   "unit_text": "per lb (apx 1.2 lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_ground_beef.png",
+   "notes": "Price is estimated package price for approximate weight Screen showed est. package $7.55 for apx 1.2 lb.",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-ground_beef-27",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop All Natural 80% Lean 20% Fat Ground Beef Fresh",
+   "price": 5.79,
+   "unit_text": "per lb (apx 3.5 lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_ground_beef.png",
+   "notes": "Larger pack; price is estimated package price for approximate weight Screen showed est. package $20.27 for apx 3.5 lb.",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-milk-28",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Vitamin D Whole Milk",
+   "price": 4.39,
+   "unit_text": "each (1 gallon), $0.03 /oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_milk.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-milk-29",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Vitamin D Whole Milk",
+   "price": 2.99,
+   "unit_text": "each (1/2 gallon), $0.05 /oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_milk.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-milk-30",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop 2% Reduced Fat Milk",
+   "price": 4.39,
+   "unit_text": "each (1 gallon), $0.03 /oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_milk.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-pasta-31",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Spaghetti Pasta",
+   "price": 0.88,
+   "unit_text": "each (16 oz box), $0.06 /oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_pasta.png",
+   "notes": "SALE badge; $0.99 shown struck through",
+   "regular_price": 0.99
+  },
+  {
+   "id": "web-stopshop-pasta-32",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Penne Rigate Pasta",
+   "price": 0.88,
+   "unit_text": "each (16 oz box), $0.06 /oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_pasta.png",
+   "notes": "SALE badge; $0.99 shown struck through",
+   "regular_price": 0.99
+  },
+  {
+   "id": "web-stopshop-pasta-33",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Rigatoni Pasta",
+   "price": 0.88,
+   "unit_text": "each (16 oz box), $0.06 /oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_pasta.png",
+   "notes": "SALE badge; $0.99 shown struck through",
+   "regular_price": 0.99
+  },
+  {
+   "id": "web-stopshop-potatoes-34",
+   "store_brand": "Stop & Shop",
+   "name": "Russet Potatoes Bag",
+   "price": 3.79,
+   "unit_text": "each (5 lb bag), $0.05 /oz",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_potatoes.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-potatoes-35",
+   "store_brand": "Stop & Shop",
+   "name": "Large Baking Russet Potatoes",
+   "price": 0.65,
+   "unit_text": "each (1 ea), $0.65 /ea",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_potatoes.png",
+   "notes": "SALE badge; $0.95 shown struck through; priced per potato",
+   "regular_price": 0.95
+  },
+  {
+   "id": "web-stopshop-potatoes-36",
+   "store_brand": "Stop & Shop",
+   "name": "Yellow Potatoes",
+   "price": 0.49,
+   "unit_text": "each (1 ea), $0.49 /ea",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_potatoes.png",
+   "notes": "SALE badge; $0.72 shown struck through; priced per potato",
+   "regular_price": 0.72
+  },
+  {
+   "id": "web-stopshop-rice-37",
+   "store_brand": "Stop & Shop",
+   "name": "Minute Gluten Free Extra Fluffy White Rice",
+   "price": 2.99,
+   "unit_text": "each (14 oz box), $0.21 /oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_rice.png",
+   "notes": "Instant (dry, uncooked) white rice",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-rice-38",
+   "store_brand": "Stop & Shop",
+   "name": "Carolina Gluten Free Long Grain White Jasmine Rice",
+   "price": 9.49,
+   "unit_text": "each (5 lb bag), $0.12 /oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_rice.png",
+   "notes": "Only other plain uncooked rice visible; other items are microwave ready rice or flavored mixes",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-tomatoes-39",
+   "store_brand": "Stop & Shop",
+   "name": "Plum Roma Tomatoes",
+   "price": 0.42,
+   "unit_text": "each (1 ea), $0.42 /ea",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_tomatoes.png",
+   "notes": "Priced per tomato",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-tomatoes-40",
+   "store_brand": "Stop & Shop",
+   "name": "Tomatoes On The Vine",
+   "price": 0.85,
+   "unit_text": "each (1 ea), $0.85 /ea",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_tomatoes.png",
+   "notes": "Priced per tomato",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-tomatoes-41",
+   "store_brand": "Stop & Shop",
+   "name": "Hot House Beefsteak Tomatoes",
+   "price": 1.36,
+   "unit_text": "each (1 ea), $1.36 /ea",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_tomatoes.png",
+   "notes": "Priced per tomato",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-yogurt-42",
+   "store_brand": "Stop & Shop",
+   "name": "Stop & Shop Non Fat Plain Greek Yogurt",
+   "price": 4.49,
+   "unit_text": "each (32 oz tub), $0.14 /oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_yogurt.png",
+   "notes": "Promo shown: Earn 300 GO Points when you spend $10 on...",
+   "regular_price": null
+  },
+  {
+   "id": "web-stopshop-yogurt-43",
+   "store_brand": "Stop & Shop",
+   "name": "Chobani Non Fat Plain Greek Yogurt Cup",
+   "price": 1.0,
+   "unit_text": "each (5.3 oz cup), $0.19 /oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_yogurt.png",
+   "notes": "SALE badge; $1.59 shown struck through",
+   "regular_price": 1.59
+  },
+  {
+   "id": "web-stopshop-yogurt-44",
+   "store_brand": "Stop & Shop",
+   "name": "FAGE Total Non Fat 0% Milkfat Plain Strained Greek Yogurt Cup",
+   "price": 1.89,
+   "unit_text": "each (5.3 oz cup), $0.36 /oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "stopandshop.com",
+   "basis": "Stop & Shop website price for the 150 Whalley Ave, New Haven store, checked 2026-10-25.",
+   "screenshot": "stopshop_yogurt.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-eggs-1",
+   "store_brand": "Target",
+   "name": "Good & Gather Cage-Free Large White Grade A Eggs (CA SEFS Compliant) - 36oz/18ct - Good & ...",
+   "price": 2.49,
+   "unit_text": "each (36oz/18ct), ($0.14/count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_eggs.png",
+   "notes": "Name truncated on screen. Pickup ready within 2 hours.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-eggs-2",
+   "store_brand": "Target",
+   "name": "Vital Farms Pasture-Raised Grade A Large Eggs - 12ct",
+   "price": 7.69,
+   "unit_text": "each (12ct), ($0.64/count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_eggs.png",
+   "notes": "Sponsored. Pickup ready within 2 hours.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-eggs-3",
+   "store_brand": "Target",
+   "name": "Vital Farms Pasture Raised Large Eggs - 18ct",
+   "price": 9.89,
+   "unit_text": "each (18ct), ($0.55/count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_eggs.png",
+   "notes": "'was $10.79', 'New lower price'. Sponsored.",
+   "regular_price": 10.79
+  },
+  {
+   "id": "web-target-eggs-4",
+   "store_brand": "Target",
+   "name": "Vital Farms Organic Pasture-Raised Grade A Large Eggs - 12ct: Certified Humane",
+   "price": 10.49,
+   "unit_text": "each (12ct), ($0.87/count)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_eggs.png",
+   "notes": "Organic. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-milk-5",
+   "store_brand": "Target",
+   "name": "Good & Gather Vitamin D Whole Milk - 1gal",
+   "price": 3.19,
+   "unit_text": "each (1gal), ($0.02/fluid ounce)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_milk.png",
+   "notes": "Bestseller. Pickup and delivery.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-milk-6",
+   "store_brand": "Target",
+   "name": "Good & Gather 2% Reduced Fat Milk - 1gal",
+   "price": 3.19,
+   "unit_text": "each (1gal), ($0.02/fluid ounce)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_milk.png",
+   "notes": "Bestseller. Only 8 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-milk-7",
+   "store_brand": "Target",
+   "name": "Good & Gather Vitamin D Whole Milk - 0.5gal",
+   "price": 1.89,
+   "unit_text": "each (0.5gal), ($0.03/fluid ounce)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_milk.png",
+   "notes": "'was $1.99', 'New lower price'. Only 9 left at North Haven.",
+   "regular_price": 1.99
+  },
+  {
+   "id": "web-target-milk-8",
+   "store_brand": "Target",
+   "name": "fairlife Lactose-Free 2% Milk - 52 fl oz",
+   "price": 5.39,
+   "unit_text": "each (52 fl oz), ($0.10/fluid ounce)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_milk.png",
+   "notes": "Lactose-free variant. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-chicken_breast-9",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh All Natural Boneless & Skinless Chicken Breast - price per lb",
+   "price": 8.78,
+   "unit_text": "each, ($3.99/lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_chicken_breast.png",
+   "notes": "$8.78 is labeled 'max price'; 'Final price based on weight'. Package weight not shown. Only 6 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-chicken_breast-10",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh All Natural Boneless & Skinless Chicken Breast Value Pack - 2.5-5.25lbs ...",
+   "price": 11.45,
+   "unit_text": "each (2.5-5.25lbs), ($2.29/lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_chicken_breast.png",
+   "notes": "$11.45 is labeled 'max price'; 'Final price based on weight'. Name truncated on screen.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-ground_beef-11",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Organic 100% Grassfed 85/15 Ground Beef - 1lb",
+   "price": 7.69,
+   "unit_text": "each (1lb), ($0.48/ounce)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_ground_beef.png",
+   "notes": "Organic, grassfed.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-ground_beef-12",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Organic 100% Grassfed 90/10 Ground Beef - 1lb",
+   "price": 8.19,
+   "unit_text": "each (1lb), ($0.51/ounce)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_ground_beef.png",
+   "notes": "Organic, grassfed.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bacon-13",
+   "store_brand": "Target",
+   "name": "Market Pantry Hardwood Smoked Classic Sliced Cut Bacon - 16oz",
+   "price": 4.39,
+   "unit_text": "each (16oz), ($0.27/ounce)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bacon.png",
+   "notes": "Pickup and delivery.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bacon-14",
+   "store_brand": "Target",
+   "name": "Market Pantry Hardwood Smoked Thick Cut Bacon - 16oz",
+   "price": 4.39,
+   "unit_text": "each (16oz), ($0.27/ounce)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bacon.png",
+   "notes": "Bestseller. Stock note says 'Only 4 left at Jackson Heights' (not North Haven).",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bacon-15",
+   "store_brand": "Target",
+   "name": "Market Pantry Hardwood Smoked Center Cut Bacon - 12oz",
+   "price": 4.39,
+   "unit_text": "each (12oz), ($0.37/ounce)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bacon.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bacon-16",
+   "store_brand": "Target",
+   "name": "Oscar Mayer 2 Pack/ 16oz Hardwood Smoke...",
+   "price": 13.28,
+   "unit_text": "each (2 Pack/ 16oz), ($0.42/ounce)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bacon.png",
+   "notes": "'Value Bundle' in Deals section. Name truncated on screen.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bread-17",
+   "store_brand": "Target",
+   "name": "Market Pantry White Sandwich Bread - 20oz",
+   "price": 1.69,
+   "unit_text": "each (20oz), ($0.08/ounce)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bread.png",
+   "notes": "Only 9 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bread-18",
+   "store_brand": "Target",
+   "name": "Wonder Round Top White Sliced Bread - 20oz: No Certified Synthetic Colors",
+   "price": 2.69,
+   "unit_text": "each (20oz), ($0.13/ounce)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bread.png",
+   "notes": "Sponsored. Only 3 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bread-19",
+   "store_brand": "Target",
+   "name": "Nature's Own Honey Wheat Bread - 20oz",
+   "price": 3.39,
+   "unit_text": "each (20oz), ($0.17/ounce)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bread.png",
+   "notes": "Bestseller. Only 5 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bread-20",
+   "store_brand": "Target",
+   "name": "Sara Lee Honey Whole Wheat Bread - 20oz",
+   "price": 3.49,
+   "unit_text": "each (20oz), ($0.17/ounce)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bread.png",
+   "notes": "Sponsored. Only 2 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-butter-21",
+   "store_brand": "Target",
+   "name": "Good & Gather Salted Stick Butter - 1lb",
+   "price": 3.19,
+   "unit_text": "each (1lb), ($0.20/ounce)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_butter.png",
+   "notes": "Bestseller.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-butter-22",
+   "store_brand": "Target",
+   "name": "Good & Gather Unsalted Butter - 16oz/4ct",
+   "price": 3.19,
+   "unit_text": "each (16oz/4ct), ($0.20/ounce)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_butter.png",
+   "notes": "Bestseller.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-butter-23",
+   "store_brand": "Target",
+   "name": "Land O'Lakes Land O Lakes Salted Butter - 1lb/4ct: Whole Milk Fat, Cow Milk Source",
+   "price": 4.59,
+   "unit_text": "each (1lb/4ct), ($0.29/ounce)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_butter.png",
+   "notes": "Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-butter-24",
+   "store_brand": "Target",
+   "name": "Land O'Lakes Land O Lakes Unsalted Butter - 1lb/4ct",
+   "price": 4.59,
+   "unit_text": "each (1lb/4ct), ($0.29/ounce)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_butter.png",
+   "notes": "Only delivery shown (no pickup line). Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-cheddar_cheese-25",
+   "store_brand": "Target",
+   "name": "Good & Gather Medium Cheddar Cheese - 8oz",
+   "price": 1.89,
+   "unit_text": "each (8oz), ($0.24/ounce)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_cheddar_cheese.png",
+   "notes": "Block.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-cheddar_cheese-26",
+   "store_brand": "Target",
+   "name": "Good & Gather Shredded Mild Cheddar Cheese - 8oz",
+   "price": 1.99,
+   "unit_text": "each (8oz), ($0.25/ounce)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_cheddar_cheese.png",
+   "notes": "Shredded.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-cheddar_cheese-27",
+   "store_brand": "Target",
+   "name": "Good & Gather Shredded Sharp Cheddar Cheese - 8oz",
+   "price": 1.99,
+   "unit_text": "each (8oz), ($0.25/ounce)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_cheddar_cheese.png",
+   "notes": "Shredded.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-cheddar_cheese-28",
+   "store_brand": "Target",
+   "name": "Cabot Creamery Seriously Sharp Cheddar Cheese - 8oz: Gluten-Free",
+   "price": 3.39,
+   "unit_text": "each (8oz), ($0.42/ounce)",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_cheddar_cheese.png",
+   "notes": "Block. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-rice-29",
+   "store_brand": "Target",
+   "name": "Good & Gather Jasmine Rice - 32oz",
+   "price": 3.79,
+   "unit_text": "each (32oz), ($0.12/ounce)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_rice.png",
+   "notes": "Bestseller. Pickup, delivery and shipping.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-rice-30",
+   "store_brand": "Target",
+   "name": "Good & Gather 90 Second Jasmine Rice Microwavable Pouch - 8.5oz",
+   "price": 1.49,
+   "unit_text": "each (8.5oz), ($0.18/ounce)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_rice.png",
+   "notes": "Microwavable/instant variant. Bestseller.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-pasta-31",
+   "store_brand": "Target",
+   "name": "Good & Gather Rotini - 16oz",
+   "price": 1.29,
+   "unit_text": "each (16oz), ($0.08/ounce)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-pasta-32",
+   "store_brand": "Target",
+   "name": "Good & Gather Rigatoni - 16oz",
+   "price": 1.29,
+   "unit_text": "each (16oz), ($0.08/ounce)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-pasta-33",
+   "store_brand": "Target",
+   "name": "Brami Italian Protein Radiatori Pasta - 12oz",
+   "price": 3.49,
+   "unit_text": "each (12oz), ($0.29/ounce)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_pasta.png",
+   "notes": "Protein pasta variant. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-pasta-34",
+   "store_brand": "Target",
+   "name": "Brami Italian Protein Pasta Fusilli - 12oz",
+   "price": 3.49,
+   "unit_text": "each (12oz)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_pasta.png",
+   "notes": "Protein pasta variant. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bananas-35",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Banana - each",
+   "price": 0.29,
+   "unit_text": "each (each)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bananas.png",
+   "notes": "Bestseller. Priced per single banana.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-bananas-36",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Organic Bananas - 2lb",
+   "price": 1.79,
+   "unit_text": "each (2lb), ($0.06/ounce)",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_bananas.png",
+   "notes": "Organic. Bestseller.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-potatoes-37",
+   "store_brand": "Target",
+   "name": "Fresh Russet Potato - each",
+   "price": 0.69,
+   "unit_text": "each (each)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_potatoes.png",
+   "notes": "Bestseller. Priced per single potato.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-potatoes-38",
+   "store_brand": "Target",
+   "name": "Organic Russet Potatoes - 3lb",
+   "price": 2.99,
+   "unit_text": "each (3lb), ($0.06/ounce)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_potatoes.png",
+   "notes": "Organic.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-potatoes-39",
+   "store_brand": "Target",
+   "name": "Fresh Organic Gold Potatoes - 3lb",
+   "price": 4.99,
+   "unit_text": "each (3lb), ($0.10/ounce)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_potatoes.png",
+   "notes": "Organic. New at Target.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-tomatoes-40",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Premium Cherry Tomatoes - 10oz - Good & Gather (Packaging May Vary)",
+   "price": 2.59,
+   "unit_text": "each (10oz), ($0.26/ounce)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_tomatoes.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-tomatoes-41",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Beefsteak Tomatoes - 13oz/2ct - Good & Gather (Packaging May Vary)",
+   "price": 2.99,
+   "unit_text": "each (13oz/2ct), ($1.50/count)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_tomatoes.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-tomatoes-42",
+   "store_brand": "Target",
+   "name": "Fresh Organic Roma Tomatoes - 1lb",
+   "price": 2.99,
+   "unit_text": "each (1lb), ($0.19/ounce)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_tomatoes.png",
+   "notes": "Organic.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-tomatoes-43",
+   "store_brand": "Target",
+   "name": "Good & Gather Fresh Organic On-The-Vine Tomatoes - 1lb",
+   "price": 3.49,
+   "unit_text": "each (1lb), ($0.22/ounce)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_tomatoes.png",
+   "notes": "Organic. Only 2 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-coffee-44",
+   "store_brand": "Target",
+   "name": "Cafe Bustelo Espresso Dark Roast Ground Coffee Vacuum-Packed Brick - 10oz",
+   "price": 6.39,
+   "unit_text": "each (10oz), ($0.64/ounce)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_coffee.png",
+   "notes": "Ground. Pickup, delivery and shipping.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-coffee-45",
+   "store_brand": "Target",
+   "name": "Don Francisco's 100% Colombia Supremo Medium Roast Ground Coffee - 10oz",
+   "price": 8.99,
+   "unit_text": "each (10oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_coffee.png",
+   "notes": "Shipping only (arrives Fri, Oct 30); no pickup shown. Sponsored.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-yogurt-46",
+   "store_brand": "Target",
+   "name": "Good & Gather Greek Plain Nonfat Yogurt - 18g Protein 32oz",
+   "price": 3.29,
+   "unit_text": "each (32oz), ($0.10/ounce)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_yogurt.png",
+   "notes": "Bestseller. 'Visit store to purchase'; delivery as soon as 6pm; no pickup line.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-yogurt-47",
+   "store_brand": "Target",
+   "name": "Good & Gather Greek Vanilla Nonfat Yogurt - 15g Protein 32oz",
+   "price": 3.29,
+   "unit_text": "each (32oz), ($0.10/ounce)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_yogurt.png",
+   "notes": "Flavored (vanilla). 'Visit store to purchase'; delivery as soon as 6pm; no pickup line.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-yogurt-48",
+   "store_brand": "Target",
+   "name": "Chobani Mixed Berry on the Bottom Low-Fat Vanilla Greek Yogurt - 4ct/5.3oz Cups",
+   "price": 4.99,
+   "unit_text": "each (4ct/5.3oz), ($0.24/ounce)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_yogurt.png",
+   "notes": "Flavored multipack. Only 9 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-target-yogurt-49",
+   "store_brand": "Target",
+   "name": "Yoplait Original Strawberry and Strawberry Banana Yogurt - 8pk/6oz Cups: Low Sodium, Gluten-Free",
+   "price": 5.39,
+   "unit_text": "each (8pk/6oz), ($0.11/ounce)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "target.com",
+   "basis": "Target website price for the North Haven store, checked 2026-10-26.",
+   "screenshot": "target_yogurt.png",
+   "notes": "Flavored multipack. Sponsored. Only 4 left at North Haven.",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bacon-1",
+   "store_brand": "Trader Joe's",
+   "name": "Uncured Dry Rubbed Sliced Bacon",
+   "price": 5.99,
+   "unit_text": "each (12 Oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bacon.png",
+   "notes": "Pork bacon",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bacon-2",
+   "store_brand": "Trader Joe's",
+   "name": "Uncured Apple Smoked Bacon",
+   "price": 6.49,
+   "unit_text": "each (12 Oz)",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bacon.png",
+   "notes": "Pork bacon. Turkey bacon, bacon bits and bacon ranch dip on the page were excluded",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bananas-3",
+   "store_brand": "Trader Joe's",
+   "name": "Bananas",
+   "price": 0.23,
+   "unit_text": "each",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bananas.png",
+   "notes": "Price per single banana",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bananas-4",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Bananas",
+   "price": 0.29,
+   "unit_text": "each",
+   "tags": [
+    "bananas",
+    "banana"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bananas.png",
+   "notes": "Price per single banana, organic",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bread-5",
+   "store_brand": "Trader Joe's",
+   "name": "White Sliced Bread",
+   "price": 2.49,
+   "unit_text": "each (22 Oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bread-6",
+   "store_brand": "Trader Joe's",
+   "name": "Whole Wheat Sliced Bread",
+   "price": 2.49,
+   "unit_text": "each (22 Oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-bread-7",
+   "store_brand": "Trader Joe's",
+   "name": "Sourdough Bread Sliced",
+   "price": 3.69,
+   "unit_text": "each (24 Oz)",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_bread.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-butter-8",
+   "store_brand": "Trader Joe's",
+   "name": "Butter Quarters, Salted",
+   "price": 2.99,
+   "unit_text": "each (16 Oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_butter.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-butter-9",
+   "store_brand": "Trader Joe's",
+   "name": "Butter Quarters, Unsalted",
+   "price": 2.99,
+   "unit_text": "each (16 Oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_butter.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-butter-10",
+   "store_brand": "Trader Joe's",
+   "name": "Cultured Salted Butter",
+   "price": 4.99,
+   "unit_text": "each (8.8 Oz)",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_butter.png",
+   "notes": "Package says produced in Brittany, France",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-chicken_breast-11",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Free Range Boneless Skinless Chicken Breasts",
+   "price": 7.49,
+   "unit_text": "per lb (1 Lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_chicken_breast.png",
+   "notes": "Screen shows '/1 Lb'; unclear whether this is a fixed 1 lb pack or a per-lb price for a variable-weight pack. Either way it is the price for 1 lb",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-chicken_breast-12",
+   "store_brand": "Trader Joe's",
+   "name": "All Natural Pasture Raised Heirloom Chicken Breasts",
+   "price": 7.99,
+   "unit_text": "per lb (1 Lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_chicken_breast.png",
+   "notes": "Screen shows '/1 Lb'; unclear whether this is a fixed 1 lb pack or a per-lb price for a variable-weight pack",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-chicken_breast-13",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Free Range Boneless Skinless Thin Sliced Chicken Breast Fillets",
+   "price": 7.99,
+   "unit_text": "per lb (1 Lb)",
+   "tags": [
+    "chicken",
+    "breast",
+    "chicken breast"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_chicken_breast.png",
+   "notes": "Thin-sliced fillets. Screen shows '/1 Lb'; unclear whether fixed 1 lb pack or per-lb price. Pesto, sliced rotisserie and grilled chili lime chicken breast excluded",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-coffee-14",
+   "store_brand": "Trader Joe's",
+   "name": "Joe's Dark Ground Coffee",
+   "price": 6.99,
+   "unit_text": "each (13 Oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_coffee.png",
+   "notes": "Ground coffee bag",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-coffee-15",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Mexico Chiapas Coffee",
+   "price": 8.99,
+   "unit_text": "each (13 Oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_coffee.png",
+   "notes": "Bag; screen does not say whether ground or whole bean",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-coffee-16",
+   "store_brand": "Trader Joe's",
+   "name": "Colombia Supremo Coffee",
+   "price": 16.99,
+   "unit_text": "each (28 Oz)",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_coffee.png",
+   "notes": "Can; screen does not say whether ground or whole bean",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-eggs-17",
+   "store_brand": "Trader Joe's",
+   "name": "Pasture Raised Large Brown Eggs",
+   "price": 5.99,
+   "unit_text": "each (1 Doz)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_eggs.jpeg",
+   "notes": "Only pasture-raised eggs shown; no conventional eggs on page",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-eggs-18",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Pasture Raised Large Brown Eggs",
+   "price": 6.99,
+   "unit_text": "each (1 Doz)",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_eggs.jpeg",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-ground_beef-19",
+   "store_brand": "Trader Joe's",
+   "name": "Ground Beef 80% lean /20% fat",
+   "price": 6.49,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_ground_beef.png",
+   "notes": "Shown as '/1 Lb' package",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-ground_beef-20",
+   "store_brand": "Trader Joe's",
+   "name": "Extra Lean Ground Beef 96% Lean / 4% Fat",
+   "price": 8.99,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_ground_beef.png",
+   "notes": "Shown as '/1 Lb' package",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-ground_beef-21",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Ground Beef 85/15",
+   "price": 8.99,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "ground",
+    "beef",
+    "ground beef"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_ground_beef.png",
+   "notes": "Shown as '/1 Lb' package. Ground Beef Patties 80/20 excluded",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-milk-22",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Lactose Free Reduced Fat Milk",
+   "price": 5.69,
+   "unit_text": "each (64 Fl Oz)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_milk.png",
+   "notes": "Half gallon; lactose-free reduced fat. Only two milks shown, both organic",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-milk-23",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Milk A2/A2",
+   "price": 5.99,
+   "unit_text": "each (64 Fl Oz)",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_milk.png",
+   "notes": "Half gallon; A2/A2 organic milk",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-pasta-24",
+   "store_brand": "Trader Joe's",
+   "name": "Orzo Italian Pasta",
+   "price": 1.29,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-pasta-25",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Cavatappi Pasta",
+   "price": 1.99,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-pasta-26",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Fusilli Corti Bucati Pasta",
+   "price": 1.99,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_pasta.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-potatoes-27",
+   "store_brand": "Trader Joe's",
+   "name": "Russet Potatoes",
+   "price": 0.99,
+   "unit_text": "each",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_potatoes.png",
+   "notes": "Price per single potato",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-potatoes-28",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Gold Potatoes",
+   "price": 3.99,
+   "unit_text": "each (3 Lb)",
+   "tags": [
+    "potatoes",
+    "potato"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_potatoes.png",
+   "notes": "3 lb bag. Sweet potatoes and prepared potato dishes excluded",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-rice-29",
+   "store_brand": "Trader Joe's",
+   "name": "Basmati Rice from India",
+   "price": 2.99,
+   "unit_text": "each (2 Lb)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_rice.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-rice-30",
+   "store_brand": "Trader Joe's",
+   "name": "Jasmine Rice From Thailand",
+   "price": 3.99,
+   "unit_text": "each (3 Lb)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_rice.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-rice-31",
+   "store_brand": "Trader Joe's",
+   "name": "Organic Basmati Rice",
+   "price": 4.99,
+   "unit_text": "each (2 Lb)",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_rice.png",
+   "notes": "The 2 Lb bag in Pastas & Grains; a different 'Organic Basmati Rice' ($4.99/30 Oz, Entrees & Sides, frozen) was excluded, as were Brown Rice (30 Oz, Entrees & Sides) and fried rices",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-tomatoes-32",
+   "store_brand": "Trader Joe's",
+   "name": "Campari Tomatoes",
+   "price": 3.79,
+   "unit_text": "each (1 Lb)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_tomatoes.png",
+   "notes": "Clamshell package shown as '/1 Lb'",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-tomatoes-33",
+   "store_brand": "Trader Joe's",
+   "name": "Teeny Tiny Tomatoes",
+   "price": 1.99,
+   "unit_text": "each (3.53 Oz)",
+   "tags": [
+    "tomatoes",
+    "tomato"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_tomatoes.png",
+   "notes": "Small container of mini tomatoes",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-yogurt-34",
+   "store_brand": "Trader Joe's",
+   "name": "Nonfat Plain Greek Yogurt",
+   "price": 0.99,
+   "unit_text": "each (5.3 Oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_yogurt.png",
+   "notes": "Single-serve cup",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-yogurt-35",
+   "store_brand": "Trader Joe's",
+   "name": "Greek Nonfat Yogurt Plain",
+   "price": 2.99,
+   "unit_text": "each (16 Oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_yogurt.png",
+   "notes": "Same product also listed as $5.49/32 Oz",
+   "regular_price": null
+  },
+  {
+   "id": "web-traderjoes-yogurt-36",
+   "store_brand": "Trader Joe's",
+   "name": "Greek Lowfat Yogurt Plain",
+   "price": 2.99,
+   "unit_text": "each (16 Oz)",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-25",
+   "site": "traderjoes.com",
+   "basis": "Trader Joe's website price (national list; may vary by store), checked 2026-10-25.",
+   "screenshot": "tj_yogurt.png",
+   "notes": "",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bacon-1",
+   "store_brand": "Walmart",
+   "name": "Great Value Sliced Hickory Smoked Original Bacon, 16 oz",
+   "price": 4.54,
+   "unit_text": "each (16 oz), 28.4 ¢/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bacon.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bacon-2",
+   "store_brand": "Walmart",
+   "name": "HORMEL BLACK LABEL Original Bacon, Gluten Free, Refrigerated, 16 oz Plastic Package",
+   "price": 6.97,
+   "unit_text": "each (16 oz), 43.6 ¢/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bacon.png",
+   "notes": "Shown as Now $6.97 with was $7.97; pickup as soon as 8pm",
+   "regular_price": 7.97
+  },
+  {
+   "id": "web-walmart-bacon-3",
+   "store_brand": "Walmart",
+   "name": "Oscar Mayer Original Naturally Hardwood Smoked Bacon, 16 oz Pack",
+   "price": 9.97,
+   "unit_text": "each (16 oz), 62.3 ¢/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bacon.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bacon-4",
+   "store_brand": "Walmart",
+   "name": "Wright Brand Hickory Real Wood Smoked Thick Cut Refrigerated Bacon, 24 oz",
+   "price": 10.98,
+   "unit_text": "each (24 oz), 45.8 ¢/oz",
+   "tags": [
+    "bacon"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bacon.png",
+   "notes": "Thick cut; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bread-5",
+   "store_brand": "Walmart",
+   "name": "Great Value White Sandwich Bread, 20 oz",
+   "price": 1.52,
+   "unit_text": "each (20 oz), 7.6 ¢/oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bread.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bread-6",
+   "store_brand": "Walmart",
+   "name": "Great Value White Round Top Bread Loaf, 20 oz",
+   "price": 1.52,
+   "unit_text": "each (20 oz), 7.6 ¢/oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bread.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bread-7",
+   "store_brand": "Walmart",
+   "name": "Schmidt Old Tyme Premium Butter Bread, Fresh 20 oz Loaf, Soft & Fluffy White Bread",
+   "price": 2.97,
+   "unit_text": "each (20 oz), 13.5 ¢/oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bread.png",
+   "notes": "Sponsored listing; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-bread-8",
+   "store_brand": "Walmart",
+   "name": "Sara Lee Delightful White Bread, 15 oz",
+   "price": 3.68,
+   "unit_text": "each (15 oz), 24.5 ¢/oz",
+   "tags": [
+    "bread"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_bread.png",
+   "notes": "Sponsored listing; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-butter-9",
+   "store_brand": "Walmart",
+   "name": "Great Value Sweet Cream Salted Butter, 16 oz Box, 4 Sticks, Refrigerated",
+   "price": 3.06,
+   "unit_text": "each (16 oz), 19.1 ¢/oz",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_butter.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-butter-10",
+   "store_brand": "Walmart",
+   "name": "Great Value Sweet Cream Unsalted Butter, 16 oz, 4 Sticks",
+   "price": 3.06,
+   "unit_text": "each (16 oz), 19.1 ¢/oz",
+   "tags": [
+    "butter"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_butter.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-cheddar_cheese-11",
+   "store_brand": "Walmart",
+   "name": "Great Value Medium Cheddar Block Cheese, 16 oz Chunk",
+   "price": 3.58,
+   "unit_text": "each (16 oz), 22.4 ¢/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_cheddar_cheese.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-cheddar_cheese-12",
+   "store_brand": "Walmart",
+   "name": "Cracker Barrel Extra Sharp White Cheddar Cheese Snacks, 10 Count Sticks",
+   "price": 4.48,
+   "unit_text": "each (10 Count), 59.7 ¢/oz",
+   "tags": [
+    "cheddar",
+    "cheese"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_cheddar_cheese.png",
+   "notes": "Snack sticks variant, not a block; name gives count only (no weight); pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-coffee-13",
+   "store_brand": "Walmart",
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast, 25.9 oz Canister",
+   "price": 12.96,
+   "unit_text": "each (25.9 oz), 50.0 ¢/oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_coffee.png",
+   "notes": "Rollback: Now $12.96, was $14.96; pickup as soon as 8pm",
+   "regular_price": 14.96
+  },
+  {
+   "id": "web-walmart-coffee-14",
+   "store_brand": "Walmart",
+   "name": "Folgers Classic Roast Ground Coffee, Medium Roast, 40.3 oz Canister",
+   "price": 19.96,
+   "unit_text": "each (40.3 oz), 49.5 ¢/oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_coffee.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-coffee-15",
+   "store_brand": "Walmart",
+   "name": "Black Rifle Coffee Company Just Black, Medium Roast, Ground Coffee,12 oz",
+   "price": 12.97,
+   "unit_text": "each (12 oz), $1.08/oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_coffee.png",
+   "notes": "Sponsored listing; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-coffee-16",
+   "store_brand": "Walmart",
+   "name": "Death Wish Coffee Co., Organic and Fair Trade™, Ground Coffee, Medium Roast, 10 oz",
+   "price": 11.82,
+   "unit_text": "each (10 oz), $1.18/oz",
+   "tags": [
+    "coffee"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_coffee.png",
+   "notes": "Sponsored listing; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-eggs-17",
+   "store_brand": "Walmart",
+   "name": "Great Value Large White Eggs, 12 Count",
+   "price": 1.67,
+   "unit_text": "each (12 Count), 7.0 ¢/oz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_eggs.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-eggs-18",
+   "store_brand": "Walmart",
+   "name": "Great Value Large White Eggs 18 Count",
+   "price": 2.47,
+   "unit_text": "each (18 Count), 6.9 ¢/oz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_eggs.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-eggs-19",
+   "store_brand": "Walmart",
+   "name": "Great Value Extra Large White Eggs 12 Count",
+   "price": 1.87,
+   "unit_text": "each (12 Count), 6.9 ¢/oz",
+   "tags": [
+    "eggs",
+    "egg"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_eggs.png",
+   "notes": "Extra large size; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-milk-20",
+   "store_brand": "Walmart",
+   "name": "Great Value Whole Vitamin D Milk, Gallon",
+   "price": 3.28,
+   "unit_text": "each (Gallon), 2.6 ¢/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_milk.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-milk-21",
+   "store_brand": "Walmart",
+   "name": "Great Value, 2% Reduced Fat Milk, Gallon",
+   "price": 3.28,
+   "unit_text": "each (Gallon), 2.6 ¢/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_milk.png",
+   "notes": "2% reduced fat; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-milk-22",
+   "store_brand": "Walmart",
+   "name": "Garelick Farms Whole Milk, Half Gallon",
+   "price": 2.58,
+   "unit_text": "each (Half Gallon), 4.0 ¢/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_milk.png",
+   "notes": "Sponsored listing; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-milk-23",
+   "store_brand": "Walmart",
+   "name": "Garelick Farms 2% Reduced-Fat Milk, Half Gallon",
+   "price": 2.53,
+   "unit_text": "each (Half Gallon), 4.0 ¢/fl oz",
+   "tags": [
+    "milk"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_milk.png",
+   "notes": "Sponsored listing; 2% reduced fat; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-pasta-24",
+   "store_brand": "Walmart",
+   "name": "Great Value Rotini, 16 oz",
+   "price": 1.36,
+   "unit_text": "each (16 oz), 8.5 ¢/oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_pasta.png",
+   "notes": "Single-pack price (options from $1.36 - $14.69); pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-pasta-25",
+   "store_brand": "Walmart",
+   "name": "Great Value Penne Pasta, 16 oz",
+   "price": 1.36,
+   "unit_text": "each (16 oz), 8.5 ¢/oz",
+   "tags": [
+    "pasta",
+    "spaghetti",
+    "penne"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_pasta.png",
+   "notes": "Single-pack price (options from $1.36 - $8.16); pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-rice-26",
+   "store_brand": "Walmart",
+   "name": "Great Value Long Grain Enriched Rice, 32 oz",
+   "price": 1.82,
+   "unit_text": "each (32 oz), 5.7 ¢/oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_rice.png",
+   "notes": "Single-pack price (options from $1.82 - $17.29); pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-rice-27",
+   "store_brand": "Walmart",
+   "name": "Great Value Long Grain Enriched Rice, 5 lbs",
+   "price": 3.52,
+   "unit_text": "each (5 lbs), 4.4 ¢/oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_rice.png",
+   "notes": "Pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-rice-28",
+   "store_brand": "Walmart",
+   "name": "Carolina Jasmine Rice, Thai Fragrant Long Grain Rice, Gluten Free, 5 lb Bag",
+   "price": 7.67,
+   "unit_text": "each (5 lb), 9.6 ¢/oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_rice.png",
+   "notes": "Sponsored listing; jasmine rice; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-rice-29",
+   "store_brand": "Walmart",
+   "name": "Daawat Traditional Basmati White Rice - Authentic Long Grain Basmati Rice - Non-Sticky, Fluffy, Nutty, Aromatic Ric...",
+   "price": 19.97,
+   "unit_text": "each (10 LB), 12.5 ¢/oz",
+   "tags": [
+    "rice"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_rice.png",
+   "notes": "Sponsored listing; name truncated on screen; size 10 LB read from the image badge, not the name; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-yogurt-30",
+   "store_brand": "Walmart",
+   "name": "Great Value Original Vanilla Low-fat Yogurt, 32 oz Tub",
+   "price": 2.64,
+   "unit_text": "each (32 oz), 8.3 ¢/oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_yogurt.png",
+   "notes": "Vanilla flavored; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-yogurt-31",
+   "store_brand": "Walmart",
+   "name": "Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",
+   "price": 3.28,
+   "unit_text": "each (32 oz), 10.3 ¢/oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_yogurt.png",
+   "notes": "Greek, plain; pickup as soon as 8pm",
+   "regular_price": null
+  },
+  {
+   "id": "web-walmart-yogurt-32",
+   "store_brand": "Walmart",
+   "name": "Activia Peach and Strawberry Low Fat Probiotic Yogurt Cups Variety Pack, Helps Support Gut Health, 4 oz, 12...",
+   "price": 7.24,
+   "unit_text": "each (4 oz, 12...), 15.1 ¢/oz",
+   "tags": [
+    "yogurt"
+   ],
+   "checked": "2026-10-26",
+   "site": "walmart.com",
+   "basis": "Walmart website price for the 2300 Dixwell Ave, Hamden store, checked 2026-10-26.",
+   "screenshot": "walmart_yogurt.png",
+   "notes": "Sponsored listing; name truncated on screen; package image shows x12 cups of 4 oz; pickup as soon as 8pm",
+   "regular_price": null
+  }
+ ],
+ "skipped": [
+  {
+   "store": "Trader Joe's",
+   "file": "tj_cheddar_cheese.png",
+   "reason": "No plain cheddar cheese shown; page lists only cheese spreads and cream cheeses (e.g. 'Unexpected Cheddar Cheese Spread'), which are not the staple"
+  },
+  {
+   "store": "Walmart",
+   "file": "walmart_bananas.png",
+   "reason": "Only an 'Available for shipping' carousel of frozen/pureed bananas, an exotic sampler and decorative fake bananas; no fresh bananas for pickup shown"
+  },
+  {
+   "store": "Walmart",
+   "file": "walmart_chicken_breast.png",
+   "reason": "Only canned chunk chicken breast, deli meat and a pulled chicken entree; no raw chicken breast shown"
+  },
+  {
+   "store": "Walmart",
+   "file": "walmart_ground_beef.png",
+   "reason": "Only canned cooked ground beef, bulk frozen patties/crumbles/meatloaf and ground venison (shipping only); no raw ground beef shown"
+  },
+  {
+   "store": "Walmart",
+   "file": "walmart_potatoes.png",
+   "reason": "Only canned potatoes and instant mashed/au gratin mixes; no fresh potatoes shown"
+  },
+  {
+   "store": "Walmart",
+   "file": "walmart_tomatoes.png",
+   "reason": "Only canned diced tomatoes; no fresh tomatoes shown"
+  }
+ ]
+}

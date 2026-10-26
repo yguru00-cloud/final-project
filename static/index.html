@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cart Commute · New Haven grocery trip planner</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="20" r="1.6"/><circle cx="18" cy="20" r="1.6"/><path d="M2 3h3l2.7 12.4a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.5L21 8H6"/></svg>
+      </div>
+      <div>
+        <h1>Cart Commute</h1>
+        <p>Cheapest grocery trip from your door in New Haven: price, sale dates, ride, weather.</p>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <span class="status-pill" id="status-pill"><span class="dot"></span><span id="status-text">Checking…</span></span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- ======================================================== input panel -->
+    <section class="panel input-panel" aria-label="Your trip">
+      <form id="plan-form" autocomplete="off">
+        <div class="field">
+          <label for="address">Where do you live?</label>
+          <div class="input-icon">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.1-7-11a7 7 0 0 1 14 0c0 4.9-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+            <input id="address" name="address" placeholder="e.g. 165 Whitney Ave" required maxlength="200" />
+          </div>
+          <div class="chips small" id="address-chips">
+            <button type="button" class="chip" data-address="165 Whitney Ave">165 Whitney Ave</button>
+            <button type="button" class="chip" data-address="1 Church St">1 Church St</button>
+            <button type="button" class="chip" data-address="300 George St">300 George St</button>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="shopping">What do you need?</label>
+          <textarea id="shopping" name="shopping" rows="5" maxlength="1500" required
+            placeholder="2 dozen eggs, 1 gallon milk, 3 lb chicken breast, rice, bananas…"></textarea>
+          <div class="field-foot"><span class="hint">Any language works. Amounts make it more accurate.</span><span class="counter" id="counter">0/1500</span></div>
+          <div class="chips" id="quick-items">
+            <span class="chips-label">Quick add</span>
+          </div>
+        </div>
+
+        <details class="settings" id="settings">
+          <summary><span>Trip settings</span><svg class="chev" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="m6 9 6 6 6-6"/></svg></summary>
+          <div class="settings-body">
+            <div class="field">
+              <span class="label">How can you get there?</span>
+              <div class="toggle-group" id="modes">
+                <button type="button" class="toggle on" data-mode="walk">🚶 Walk</button>
+                <button type="button" class="toggle on" data-mode="shuttle" title="Yale Weekend Grocery Shuttle (Sat-Sun, about 7am-5pm)">🚌 Yale shuttle</button>
+                <button type="button" class="toggle on" data-mode="uber">🚕 Uber</button>
+                <button type="button" class="toggle on" data-mode="zipcar">🚗 Zipcar</button>
+              </div>
+            </div>
+            <div class="row2">
+              <span class="label">Membership clubs (planned only if you are a member)</span>
+              <label class="switch"><input type="checkbox" id="has-costco" /><span class="track"><span class="thumb"></span></span>I'm a Costco member</label>
+              <label class="switch"><input type="checkbox" id="has-bjs" /><span class="track"><span class="thumb"></span></span>I'm a BJ's Wholesale Club member</label>
+            </div>
+            <div class="field range">
+              <label for="days">Shop within the next <b id="days-out">7</b> days</label>
+              <input type="range" id="days" min="1" max="7" value="7" />
+            </div>
+            <div class="field range">
+              <label for="carry">I can carry about <b id="carry-out">15</b> lb on foot</label>
+              <input type="range" id="carry" min="5" max="40" value="15" />
+            </div>
+            <div class="field range">
+              <label for="timevalue">My time is worth <b id="timevalue-out">$0</b>/hour <small style="color:var(--muted)">(0 = cheapest trip wins)</small></label>
+              <input type="range" id="timevalue" min="0" max="40" step="1" value="0" />
+            </div>
+            <div class="field inline">
+              <label for="zipcar">Zipcar rate ($/hour)</label>
+              <input type="number" id="zipcar" min="1" max="60" step="0.5" placeholder="11.00" />
+            </div>
+          </div>
+        </details>
+
+        <button type="submit" class="btn primary big" id="go">
+          <span class="btn-label">Plan my trip</span>
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </button>
+        <p class="fineprint">Prices come from this week's flyers and store websites. Anything else is marked <span class="badge est">Estimate</span>. Nothing is ever made up.</p>
+      </form>
+    </section>
+
+    <!-- ======================================================== output panel -->
+    <section class="output" aria-live="polite">
+      <!-- empty state -->
+      <div class="panel empty" id="empty">
+        <div class="empty-art" aria-hidden="true">
+          <div class="bubble b1">🥚</div><div class="bubble b2">🥛</div><div class="bubble b3">🍌</div><div class="bubble b4">🍗</div>
+          <div class="cart">🛒</div>
+        </div>
+        <h2>Where, when, and how to shop this week</h2>
+        <p>Tell us where you live and what you need. Three AI agents and a set of tools check this week's flyer sales, store-website prices (Trader Joe's, ALDI, Stop &amp; Shop, Costco), the free Yale shuttle, Uber and Zipcar costs, and the 7-day forecast. Code does all the math. You get one clear plan, and a chat helper answers follow-up questions.</p>
+        <ol class="how">
+          <li><span>1</span>List Reader understands your list</li>
+          <li><span>2</span>Price Scout matches real offers</li>
+          <li><span>3</span>Trip Planner (code) adds rides, shuttle, hours &amp; weather</li>
+          <li><span>4</span>Trip Advisor explains the best plan</li>
+        </ol>
+      </div>
+
+      <!-- live run -->
+      <div class="panel run hidden" id="run">
+        <div class="run-head">
+          <h2>Planning your trip</h2>
+          <span class="timer" id="timer">0.0s</span>
+        </div>
+        <div class="pipeline" id="pipeline">
+          <div class="stage" data-agent="list_reader"><div class="stage-icon">📝</div><div><b>List Reader</b><small>Reading your list</small></div></div>
+          <div class="stage" data-agent="price_scout"><div class="stage-icon">🔎</div><div><b>Price Scout</b><small>Matching flyer &amp; website prices</small></div></div>
+          <div class="stage" data-agent="trip_planner"><div class="stage-icon">🗺️</div><div><b>Trip Planner</b><small>Routes, rides, hours, weather</small></div></div>
+          <div class="stage" data-agent="trip_advisor"><div class="stage-icon">💡</div><div><b>Trip Advisor</b><small>Explaining the best plan</small></div></div>
+        </div>
+        <div class="feed" id="feed"></div>
+      </div>
+
+      <!-- results -->
+      <div class="results hidden" id="results">
+        <div class="panel hero" id="hero"></div>
+        <div class="panel review hidden" id="review"></div>
+
+        <div class="grid2">
+          <div class="panel">
+            <h3>Why this plan</h3>
+            <ul class="reasons" id="reasons"></ul>
+            <div class="tips" id="tips"></div>
+            <div class="cautions" id="cautions"></div>
+          </div>
+          <div class="panel map-panel">
+            <div id="map"></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <div class="tabs" role="tablist">
+            <button class="tab active" data-tab="basket" role="tab">🧺 Basket</button>
+            <button class="tab" data-tab="compare" role="tab">⚖️ Compare</button>
+            <button class="tab" data-tab="week" role="tab">📅 Week</button>
+            <button class="tab" data-tab="hood" role="tab">⚙️ Under the hood</button>
+          </div>
+          <div class="tab-body" id="tab-basket"></div>
+          <div class="tab-body hidden" id="tab-compare"></div>
+          <div class="tab-body hidden" id="tab-week"></div>
+          <div class="tab-body hidden" id="tab-hood"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ======================================================== chat -->
+  <button class="chat-fab hidden" id="chat-fab" aria-label="Ask about your plan">
+    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 21l1.9-5.4A8 8 0 1 1 21 12z"/></svg>
+    <span>Ask</span>
+  </button>
+  <aside class="chat hidden" id="chat" aria-label="Plan helper chat">
+    <div class="chat-head">
+      <div><b>Plan Helper</b><small>Answers only from your plan &amp; live data</small></div>
+      <button class="icon-btn" id="chat-close" aria-label="Close chat">✕</button>
+    </div>
+    <div class="chat-log" id="chat-log"></div>
+    <div class="chips small chat-suggest" id="chat-suggest"></div>
+    <form class="chat-input" id="chat-form">
+      <input id="chat-text" maxlength="600" placeholder="Ask about your plan…" autocomplete="off" />
+      <button class="btn primary" type="submit" aria-label="Send">➤</button>
+    </form>
+  </aside>
+
+  <div class="toasts" id="toasts"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>
