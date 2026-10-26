@@ -123,7 +123,7 @@ shopping list + address
 
   For meat sold by weight, the per-lb price shown on the site is used. In-store prices may differ.
 - **Estimates:** when no store price exists, the U.S. average retail price from the Bureau of Labor Statistics (September 2026) is used and labeled *Estimate*. Uber cost = $7.50 + $1.25/mile (minimum $8) each way, fitted to Uber's own published average fares from New Haven. Zipcar = $11/hour by default (you can change it in Trip settings).
-- **Yale Weekend Grocery Shuttle:** Saturdays and Sundays, about 7am-5pm, stops at ALDI/Walmart Hamden and ShopRite / Trader Joe's Hamden (Yale's official route sheet; stop locations from Yale's shuttle tracker). Yale does not publish the loop time, so it is assumed to be 50 minutes and split by distance along the one-way loop. Going out, you watch the tracker app (about 5 min wait); coming back, you wait for the same shuttle to come around again (loop time minus your walking and shopping time). No service on University holidays or recess.
+- **Yale Weekend Grocery Shuttle:** Saturdays and Sundays, about 7am-5pm, stops at ALDI/Walmart Hamden and ShopRite / Trader Joe's Hamden (Yale's official route sheet; stop locations from Yale's shuttle tracker). Yale does not publish the loop time; it is about 50 minutes, as observed once in Yale's shuttle tracker app, and is split by distance along the one-way loop. Going out, you watch the tracker app (about 5 min wait); coming back, you wait for the same shuttle to come around again (loop time minus your walking and shopping time). No service on University holidays or recess.
 - **Store locations and hours:** OpenStreetMap. **Weather:** Open-Meteo. **Busy hours:** a simple rule (weekend midday, weekday 5-6pm), not live data.
 
 ## Known limits

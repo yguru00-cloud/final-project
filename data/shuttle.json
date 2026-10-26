@@ -6,7 +6,7 @@
     "https://your.yale.edu/campus-essentials/getting-around-campus/using-the-shuttle/weekend-routes",
     "https://yale.downtownerapp.com/routes_stops.php"
   ],
-  "basis": "Yale's 'Weekend Grocery Shuttle Service' sheet: Saturdays and Sundays, about 7:00 AM to 5:00 PM, one-way loop, no service on University holidays or recess. Stop locations from Yale's shuttle tracker. Yale does not publish the loop time, so it is assumed to be 50 minutes; ride times are that loop split by distance. Going out, you watch the tracker and wait about 5 minutes; coming back, you wait for the same shuttle to come around again.",
+  "basis": "Yale's 'Weekend Grocery Shuttle Service' sheet: Saturdays and Sundays, about 7:00 AM to 5:00 PM, one-way loop, no service on University holidays or recess. Stop locations from Yale's shuttle tracker. Yale does not publish the loop time; it is about 50 minutes, as observed by the author once in Yale's shuttle tracker app. Ride times are that loop split by distance. Going out, you watch the tracker and wait about 5 minutes; coming back, you wait for the same shuttle to come around again.",
   "days": [5, 6],
   "start_hour": 7,
   "end_hour": 17,

@@ -149,7 +149,7 @@
   <li><b>Variant rules</b>: lactose-free, flavored, instant, bone-in… are kept out of the plan and shown as choices B/C/D.</li>
   <li><b>Price fallback order</b>: flyer sale → store website → median of other New Haven stores this week (labeled estimate) → U.S. average from BLS (labeled estimate) → "not compared" for every store alike.</li>
   <li><b>Optimizer</b>: every day × store (or store pair) × transport mode; ranks by money paid + your time (if you set a value) + small penalties for rain, heavy bags on foot, and estimated prices. It also computes the break-even value of an hour at which a faster (or cheaper) plan would win.</li>
-  <li><b>Shuttle model</b>: Yale's one-way loop; 5 min wait going (tracker app), and coming back you wait for the same shuttle to come around (loop time minus walking and shopping).</li>
+  <li><b>Shuttle model</b>: Yale's one-way loop of about 50 minutes (Yale does not publish it; I observed it in Yale's shuttle tracker app); 5 min wait going (tracker app), and coming back you wait for the same shuttle to come around (loop time minus walking and shopping).</li>
 </ul>
 
 <h3>How they are organized, and why</h3>
@@ -294,7 +294,7 @@ PASS  rate limit: 4th and 5th runs in an hour are refused  -&gt; [True, True, Tr
   <li><b>Prices are a snapshot.</b> Website prices are from 2026-10-25/26 for 15 staples at 8 stores. Big Y only has flyer sales, and Walmart Hamden sells no fresh meat or produce online. Other items use flyer sales or labeled estimates.</li>
   <li><b>Which offers count as a match can still vary.</b> The same 6-item list gave $23.19 (ALDI + Walmart, Walmart's rice included) in the walkthrough run and $23.66 (ALDI only) in the measured run, because the Price Scout included Walmart's rice in one run and not the other. Units, prices and ranking are code and do not vary.</li>
   <li><b>Costco prices are from Costco Same-Day (Instacart)</b>, usually higher than in the warehouse, so Costco plans look slightly worse than they are.</li>
-  <li><b>Shuttle loop time is assumed (50 min)</b>; Yale doesn't publish it. Uber and Zipcar costs are estimates (fitted to Uber's published averages; Zipcar $11/h default, editable).</li>
+  <li><b>Shuttle loop time (about 50 min) comes from one observation</b> in Yale's shuttle tracker app; measuring several loops at different times of day would make wait and ride times more reliable. Uber and Zipcar costs are estimates (fitted to Uber's published averages; Zipcar $11/h default, editable).</li>
   <li><b>Data sources are not production-grade</b>: Flipp's public search is unofficial, and the OSRM and Nominatim free servers have usage limits.</li>
   <li><b>Store crowding is a rule of thumb</b>, not live data.</li>
   <li><b>Poisoned flyer text</b> is defended by design but not separately tested.</li>
@@ -305,7 +305,7 @@ PASS  rate limit: 4th and 5th runs in an hour are refused  -&gt; [True, True, Tr
 <h3>What I would build next with another month</h3>
 <ol>
   <li><b>Receipt upload</b>: read a receipt photo to update prices from real purchases (crowd-sourced, per store).</li>
-  <li><b>Live shuttle timing</b> from Yale's tracker (ETA feed) instead of an assumed loop time.</li>
+  <li><b>Live shuttle timing</b> from Yale's tracker (ETA feed) instead of one observed loop time.</li>
   <li><b>"Only this kind" preferences</b> (e.g. always lactose-free) saved per user.</li>
   <li><b>Fresh prices every week</b> instead of a one-time snapshot (and Big Y, the one store without website prices).</li>
   <li><b>A pilot with a student group</b> (independent users) to measure real savings and time over a month.</li>

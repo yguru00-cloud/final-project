@@ -264,7 +264,7 @@
     const b = t.breakdown;
     if (!b) return "";
     const step = (icon, label, min) => `<span class="step"><span>${icon}</span>${label}<b>${min}′</b></span>`;
-    return `<div class="steps" title="Loop time is not published by Yale: assumed 50 min, split by distance. Going out you watch the tracker app; coming back you wait for the shuttle to come around again.">
+    return `<div class="steps" title="Loop time: about 50 min, observed once in Yale's shuttle tracker app (Yale does not publish it), split by distance. Going out you watch the tracker app; coming back you wait for the shuttle to come around again.">
       ${step("🚶", "to stop", b.walk_to_stop)}${step("⏳", "wait (tracker)", b.wait_out)}${step("🚌", "ride", b.ride_out)}
       ${step("🚶", "stop ↔ store", b.walk_at_stores)}${step("🛒", "shop", b.shopping)}${step("⏳", "wait for loop", b.wait_back)}${step("🚌", "ride back", b.ride_back)}${step("🚶", "home", b.walk_home)}
     </div>`;
